@@ -1,4 +1,4 @@
-# Why another book on reinforcement learning?
+# Why a new book on reinforcement learning?
 
 This is a draft of a new book entitled “Mathematical Foundation of Reinforcement Learning”. While there are many excellent studying materials, why do I write a new book on RL?
 
@@ -35,5 +35,5 @@ This book, however, requires the readers to have some knowledge of probability t
 This book has not been finalized yet. A few more chapters will be added. The slides and videos for my course will also be uploaded online. I am collecting feedback about this book. Any advice from the readers will be appreciated. Any feedback can be sent to zhaoshiyu@westlake.edu.cn.
 
 # About the author
-You can find my info at my homepage https://www.shiyuzhao.net/ and my research group website https://shiyuzhao.westlake.edu.cn
+You can find my info at my homepage https://www.shiyuzhao.net/ (GoogleSite) and my research group website https://shiyuzhao.westlake.edu.cn
 
