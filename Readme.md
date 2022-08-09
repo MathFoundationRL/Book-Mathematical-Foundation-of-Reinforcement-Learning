@@ -31,8 +31,10 @@ It does NOT require the readers have any background on RL because it starts by i
 
 This book, however, requires the readers to have some knowledge of probability theory and linear algebra. Some basics of the required mathematics are also included in the appendix of this book.
 
-# Feedback is appreciated
-This book has not been finalized yet. A few more chapters will be added. The slides and videos for my course will also be uploaded online. I am collecting feedback about this book. Any advice from the readers will be appreciated. Any feedback can be sent to zhaoshiyu@westlake.edu.cn.
+# Feedback will be appreciated
+This book has not been finalized yet. A few more chapters will be added. The slides and videos for my course will also be uploaded online. The publisher of this book will be announced. 
+
+I am collecting feedback about this book. Any advice from the readers will be appreciated. Any feedback can be sent to zhaoshiyu@westlake.edu.cn.
 
 # About the author
 You can find my info on my homepage https://www.shiyuzhao.net/ (GoogleSite) and my research group website https://shiyuzhao.westlake.edu.cn
