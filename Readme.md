@@ -24,7 +24,7 @@ This book aims to provide a mathematical but friendly introduction to the fundam
 Here is a brief description of the relationship among the chapters in this book. Chapter 2 introduces the Bellman equation, which is a fundamental tool for analyzing state values. Chapter 3 introduces the Bellman optimality equation, which is a special Bellman equation. Chapter 4 introduces the value iteration algorithm, which is an algorithm solving the Bellman optimality equation. Chapter 5 introduces Monte Carlo learning, which is an extension of the policy iteration algorithm introduced in Chapter 4. Chapter 6 introduces the basics of stochastic approximation, which lays a foundation for introducing temporal-difference learning in Chapter 7. Chapter 8 extends the tabular temporal-difference learning methods to the case of value function approximation. While Chapter 9 switches to policy iteration, Chapter 10 introduces actor-critic methods, which are a combination of the contents in Chapter 8 and Chapter 9.
 
 
-# Target readers 
+# Readership
 This book is aimed at senior undergraduate students, graduate students, researchers, and practitioners who are interested in RL. 
 
 It does NOT require the readers have any background on RL because it starts by introducing the very basic concepts of RL. However, if the readers already have some background in RL, I believe the book can also help them to understand some topics deeper or provide them with different perspectives. 
