@@ -1,6 +1,6 @@
 # Why a new book on reinforcement learning?
 
-This is a draft of a new book entitled “Mathematical Foundation of Reinforcement Learning.” While there are many excellent studying materials, why do I write a new book on RL?
+This is a draft of a new book entitled “Mathematical Foundation of Reinforcement Learning.” While there already exist many excellent studying materials about reinforcement learning (RL), why do I write a new book?
 
 I have been teaching a graduate-level course on RL for three years. I will teach the course for the fourth time in the fall of 2022. Along with the teaching, I have been preparing this book as the lecture notes for my students. The main reason for me to write this book and develop this course is that I personally think the existing studying materials for RL are either too intuitive or too mathematical.
 
