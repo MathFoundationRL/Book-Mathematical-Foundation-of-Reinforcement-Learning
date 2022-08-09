@@ -19,9 +19,9 @@ This book aims to provide a mathematical but friendly introduction to the fundam
 
 # Relationship among the chapters in this book
 
-![xxx](https://github.com/MathFoundationRL/Book-Mathmatical-Foundation-of-Reinforcement-Learning/blob/main/chapterRelationship.png?raw=true)
-  
-Relationship among the contents in different chapters. Chapter 2 introduces the Bellman equation, which is a fundamental tool for analyzing state values. Chapter 3 introduces the Bellman optimality equation, which is a special Bellman equation. Chapter 4 introduces the value iteration algorithm, which is an algorithm solving the Bellman optimality equation. Chapter 5 introduces Monte Carlo learning, which is an extension of the policy iteration algorithm introduced in Chapter 4. Chapter 6 introduces the basics of stochastic approximation, which lays a foundation for introducing temporal-difference learning in Chapter 7. Chapter 8 extends the tabular temporal-difference learning methods to the case of value function approximation. While Chapter 9 switches to policy iteration, Chapter 10 introduces actor-critic methods, which are a combination of the contents in Chapter 8 and Chapter 9.
+![An illustration of the relationship among the contents in different chapters. It may not be display correctly to some regions. If so, you can find the figure in the preface of this book.](./chapterRelationship.png)
+
+Here is a brief description of the relationship among the chapters in this book. Chapter 2 introduces the Bellman equation, which is a fundamental tool for analyzing state values. Chapter 3 introduces the Bellman optimality equation, which is a special Bellman equation. Chapter 4 introduces the value iteration algorithm, which is an algorithm solving the Bellman optimality equation. Chapter 5 introduces Monte Carlo learning, which is an extension of the policy iteration algorithm introduced in Chapter 4. Chapter 6 introduces the basics of stochastic approximation, which lays a foundation for introducing temporal-difference learning in Chapter 7. Chapter 8 extends the tabular temporal-difference learning methods to the case of value function approximation. While Chapter 9 switches to policy iteration, Chapter 10 introduces actor-critic methods, which are a combination of the contents in Chapter 8 and Chapter 9.
 
 
 # Target readers 
