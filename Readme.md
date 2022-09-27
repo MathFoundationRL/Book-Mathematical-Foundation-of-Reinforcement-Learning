@@ -1,6 +1,6 @@
 # Update (Sept 23, 2022)
 
-The lecture slides are uploaded in the folder "Lecture slides".
+The lecture slides have been uploaded in the folder "Lecture slides".
 
 The lecture videos (in Chinese) are online. Please check https://space.bilibili.com/2044042934 
 
