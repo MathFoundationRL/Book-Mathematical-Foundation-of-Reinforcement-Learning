@@ -2,7 +2,7 @@
 
 The lecture slides have been uploaded in the folder "Lecture slides".
 
-The lecture videos (in Chinese) are online. Please check https://space.bilibili.com/2044042934 and https://www.youtube.com/channel/UCztGtS5YYiNv8x3pj9hLVgg/playlists
+The lecture videos (in Chinese) are online. Please check our Bilibili channel https://space.bilibili.com/2044042934 or the Youtube channel https://www.youtube.com/channel/UCztGtS5YYiNv8x3pj9hLVgg/playlists
 
 We will keep updating the videos and slides. Please stay tuned.
 
