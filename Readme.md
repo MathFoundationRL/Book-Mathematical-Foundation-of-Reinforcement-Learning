@@ -1,6 +1,6 @@
 # Update (Nov, 2022)
 
-**This book will be published jointly by Springer Nature and Tsinghua University Press**. It will be printed probably in the second half of 2023.
+This book will be published **jointly by Springer Nature and Tsinghua University Press**. It will be printed probably in the second half of 2023.
 
 I have received some comments and suggestions about this book from some readers. Thanks a lot and I appreciate it. I am still collecting feedback and will probably revise the draft in several months. Your feedback can make this book more helpful for other readers!
 
@@ -8,7 +8,7 @@ I have received some comments and suggestions about this book from some readers.
 
 The **lecture slides** have been uploaded in the folder "Lecture slides".
 
-The lecture videos (in Chinese) are online. Please check our Bilibili channel https://space.bilibili.com/2044042934 or the Youtube channel https://www.youtube.com/channel/UCztGtS5YYiNv8x3pj9hLVgg/playlists
+The **lecture videos** (in Chinese) are online. Please check our Bilibili channel https://space.bilibili.com/2044042934 or the Youtube channel https://www.youtube.com/channel/UCztGtS5YYiNv8x3pj9hLVgg/playlists
 
 The lecture notes and lecture videos are not complete yet. We will keep updating the videos and slides. Please stay tuned.
 
