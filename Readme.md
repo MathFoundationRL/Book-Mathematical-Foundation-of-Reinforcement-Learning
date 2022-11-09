@@ -2,6 +2,8 @@
 
 **This book will be published jointly by Springer Nature and Tsinghua University Press**. It will be published probably in the second half of 2023.
 
+I have received some comments and suggestions about this book from some readers. Thanks a lot and I appreciate it. I am still collecting feedback and will probably revise the draft in several months. Your feedback can make this book more helpful for other readers!
+
 # Update (Oct, 2022)
 
 The **lecture slides** have been uploaded in the folder "Lecture slides".
