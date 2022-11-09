@@ -1,6 +1,6 @@
 # Update (Nov, 2022)
 
-This book will be **published jointly by Springer Nature and Tsinghua University Press**. It will be published probably in the second half of 2023.
+**This book will be published jointly by Springer Nature and Tsinghua University Press**. It will be published probably in the second half of 2023.
 
 # Update (Oct, 2022)
 
