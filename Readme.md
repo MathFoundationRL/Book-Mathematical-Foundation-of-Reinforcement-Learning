@@ -10,8 +10,6 @@ The **lecture slides** have been uploaded in the folder "Lecture slides".
 
 The **lecture videos** (in Chinese) are online. Please check our Bilibili channel https://space.bilibili.com/2044042934 or the Youtube channel https://www.youtube.com/channel/UCztGtS5YYiNv8x3pj9hLVgg/playlists
 
-The lecture notes and lecture videos are not complete yet. We will keep updating the videos and slides. Please stay tuned.
-
 # Why a new book on reinforcement learning?
 
 This is a draft of a new book entitled “Mathematical Foundations of Reinforcement Learning.” While there already exist many excellent studying materials about reinforcement learning (RL), why do I write a new book?
