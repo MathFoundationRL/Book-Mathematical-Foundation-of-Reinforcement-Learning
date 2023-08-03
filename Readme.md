@@ -1,28 +1,10 @@
-# Update history 
+# Majore update
 
-(Aug, 2023)
+**The second version of the draft of the book is online now!!**
 
-**The second version of the draft of the book is online now!!** 
-
-Compared to the first version, which was online one year ago, the second version is improved in various ways. For example, we corrected some typos, reorginzed some contents to make them clearer, added Chapter 10 which was not included in the first version. 
+Compared to the first version, which was online one year ago, the second version has been improved in various ways. For example, we corrected some typos, reorganized some contents to make them clearer, and added Chapter 10, which was not included in the first version. 
 
 I put the first draft of this book online in August 2022. Up to now, I have received valuable feedback from many readers all over the world. I want to express my gratitude to these readers.
-
-(Nov, 2022) 
-
-This book will be published **jointly by Springer Nature and Tsinghua University Press**. It will be printed probably in the second half of 2023.
-
-I have received some comments and suggestions about this book from some readers. Thanks a lot and I appreciate it. I am still collecting feedback and will probably revise the draft in several months. Your feedback can make this book more helpful for other readers!
-
-(Oct, 2022)
-
-The **lecture slides** have been uploaded in the folder "Lecture slides".
-
-The **lecture videos** (in Chinese) are online. Please check our Bilibili channel https://space.bilibili.com/2044042934 or the Youtube channel https://www.youtube.com/channel/UCztGtS5YYiNv8x3pj9hLVgg/playlists
-
-(Aug, 2022)
-
-The first draft of the book is online.
 
 # Why a new book on reinforcement learning?
 
@@ -40,7 +22,7 @@ This book aims to provide a **mathematical but friendly** introduction to the fu
 
 # Contents
 
-The topcis addressed in the book are clearly shown in the figure below. This book contains 10 chapters, which can be classified into two parts: the first part is about basic tools, and the second part is about algorithms. The 10 chapters are highly correlated. In general, it is necessary to study the earlier chapters first before the later ones.
+The topics addressed in the book are clearly shown in the figure below. This book contains ten chapters, which can be classified into two parts: the first part is about basic tools, and the second part is about algorithms. The ten chapters are highly correlated. In general, it is necessary to study the earlier chapters first before the later ones.
 
 ![An illustration of the relationship between the contents in different chapters. If the figure is not displayed correctly, you can find the figure in the preface of this book.](./Figure_chapterRelationship.png)
 
@@ -59,6 +41,32 @@ You can find my info on my homepage https://www.shiyuzhao.net/ (GoogleSite) and 
 
 # Concluding remarks
 
-I have been teaching a graduate-level course on reinforcement learning since 2019. Along with the teaching, I have been preparing this book as the lecture notes for my students. 
+I have been teaching a graduate-level course on reinforcement learning since 2019. Along with teaching, I have been preparing this book as the lecture notes for my students. 
 
 I sincerely hope this book can help readers smoothly enter the exciting field of reinforcement learning.
+
+# Update history 
+
+(Aug 2023)
+
+The second version of the draft of the book is online now!
+
+Compared to the first version, which was online one year ago, the second version has been improved in various ways. For example, we corrected some typos, reorganized some contents to make them clearer, and added Chapter 10, which was not included in the first version. 
+
+I put the first draft of this book online in August 2022. Up to now, I have received valuable feedback from many readers all over the world. I want to express my gratitude to these readers.
+
+(Nov 2022) 
+
+This book will be published **jointly by Springer Nature and Tsinghua University Press**. It will probably be printed in the second half of 2023.
+
+I have received some comments and suggestions about this book from some readers. Thanks a lot, and I appreciate it. I am still collecting feedback and will probably revise the draft in several months. Your feedback can make this book more helpful for other readers!
+
+(Oct 2022)
+
+The **lecture slides** have been uploaded in the folder "Lecture slides."
+
+The **lecture videos** (in Chinese) are online. Please check our Bilibili channel https://space.bilibili.com/2044042934 or the Youtube channel https://www.youtube.com/channel/UCztGtS5YYiNv8x3pj9hLVgg/playlists
+
+(Aug 2022)
+
+The first draft of the book is online.
