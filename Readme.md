@@ -1,4 +1,4 @@
-# Major update
+# Major update (Aug 2023)
 
 **The second version of the draft of the book is online now!!**
 
