@@ -2,7 +2,7 @@
 
 **The second version of the draft of the book is online now!!**
 
-Compared to the first version, which was online one year ago, the second version has been improved in various ways. For example, we corrected some typos, reorganized some contents to make them clearer, and added Chapter 10, which was not included in the first version. 
+Compared to the first version, which was online one year ago, the second version has been improved in various ways. For example, we replotted most of the figures, reorganized some contents to make them clearer, corrected some typos, and added Chapter 10, which was not included in the first version. 
 
 I put the first draft of this book online in August 2022. Up to now, I have received valuable feedback from many readers worldwide. I want to express my gratitude to these readers.
 
@@ -22,7 +22,7 @@ This book aims to provide a **mathematical but friendly** introduction to the fu
 
 # Contents
 
-The topics addressed in the book are clearly shown in the figure below. This book contains ten chapters, which can be classified into two parts: the first part is about basic tools, and the second part is about algorithms. The ten chapters are highly correlated. In general, it is necessary to study the earlier chapters first before the later ones.
+The topics addressed in the book are shown in the figure below. This book contains ten chapters, which can be classified into two parts: the first part is about basic tools, and the second part is about algorithms. The ten chapters are highly correlated. In general, it is necessary to study the earlier chapters first before the later ones.
 
 ![An illustration of the relationship between the contents in different chapters. If the figure is not displayed correctly, you can find the figure in the preface of this book.](./Figure_chapterRelationship.png)
 
