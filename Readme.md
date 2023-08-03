@@ -1,18 +1,18 @@
-# Majore update
+# Major update
 
 **The second version of the draft of the book is online now!!**
 
 Compared to the first version, which was online one year ago, the second version has been improved in various ways. For example, we corrected some typos, reorganized some contents to make them clearer, and added Chapter 10, which was not included in the first version. 
 
-I put the first draft of this book online in August 2022. Up to now, I have received valuable feedback from many readers all over the world. I want to express my gratitude to these readers.
+I put the first draft of this book online in August 2022. Up to now, I have received valuable feedback from many readers worldwide. I want to express my gratitude to these readers.
 
 # Why a new book on reinforcement learning?
 
 This book aims to provide a **mathematical but friendly** introduction to the fundamental concepts, basic problems, and classic algorithms in reinforcement learning. Some essential features of this book are highlighted as follows.
 
-- The book introduces reinforcement learning from a mathematical point of view. Hopefully, readers will not only know the procedure of an algorithm but also understand why the algorithm was designed in the first place and why it works effectively.
+- The book introduces reinforcement learning from a mathematical point of view. Hopefully, readers will not only know the procedure of an algorithm but also understand why it was designed in the first place and why it works effectively.
 
-- The depth of the mathematics is carefully controlled to an adequate level. The mathematics is also presented in a carefully designed manner to ensure that the book is friendly to read. Readers can read the materials presented in gray boxes selectively according to their interests.
+- The depth of the mathematics is carefully controlled to an adequate level. The mathematics is also presented in a carefully designed manner to ensure that the book is friendly to read. Readers can selectively read the materials presented in gray boxes according to their interests.
 
 - Many illustrative examples are given to help readers better understand the topics. All the examples in this book are based on a grid world task, which is easy to understand and helpful for illustrating concepts and algorithms.
 
@@ -53,7 +53,7 @@ The second version of the draft of the book is online now!
 
 Compared to the first version, which was online one year ago, the second version has been improved in various ways. For example, we corrected some typos, reorganized some contents to make them clearer, and added Chapter 10, which was not included in the first version. 
 
-I put the first draft of this book online in August 2022. Up to now, I have received valuable feedback from many readers all over the world. I want to express my gratitude to these readers.
+I put the first draft of this book online in August 2022. Up to now, I have received valuable feedback from many readers worldwide. I want to express my gratitude to these readers.
 
 (Nov 2022) 
 
