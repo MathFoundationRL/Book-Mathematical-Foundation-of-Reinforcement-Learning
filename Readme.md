@@ -38,12 +38,18 @@ This book, however, requires the reader to have some knowledge of probability th
 # About the author
 You can find my info on my homepage https://www.shiyuzhao.net/ (GoogleSite) and my research group website https://shiyuzhao.westlake.edu.cn
 
-
-# Concluding remarks
-
 I have been teaching a graduate-level course on reinforcement learning since 2019. Along with teaching, I have been preparing this book as the lecture notes for my students. 
 
 I sincerely hope this book can help readers smoothly enter the exciting field of reinforcement learning.
+
+# Citation
+
+@book{zhao2024mathFoundationRL,
+  title={Mathmatical Foundations of Reinforcement Learning},
+  author={S. Zhao},
+  year={2024},
+  publisher={Springer Nature Press and Tsinghua University Press}
+}
 
 # Update history 
 
