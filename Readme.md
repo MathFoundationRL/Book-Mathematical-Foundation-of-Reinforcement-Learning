@@ -44,12 +44,14 @@ I sincerely hope this book can help readers smoothly enter the exciting field of
 
 # Citation
 
+```
 @book{zhao2024mathFoundationRL,
   title={Mathmatical Foundations of Reinforcement Learning},
   author={S. Zhao},
   year={2024},
   publisher={Springer Nature Press and Tsinghua University Press}
 }
+```
 
 # Update history 
 
