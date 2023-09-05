@@ -1,6 +1,6 @@
 # 1000+ stars (Sep 2023)
 
-The book received 1000+ stars! Thank every one!
+The book received 1000+ stars! Thank everybody!
 
 # Major update (Aug 2023)
 
