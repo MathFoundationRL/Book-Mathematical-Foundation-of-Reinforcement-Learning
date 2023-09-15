@@ -39,6 +39,12 @@ It does not require readers to have any background in reinforcement learning bec
 
 This book, however, requires the reader to have some knowledge of probability theory and linear algebra. Some basics of the required mathematics are also included in the appendix of this book.
 
+# Lecture videos 
+
+The lecture videos (in Chinese) are online. You can check the Bilibili channel https://space.bilibili.com/2044042934 or the Youtube channel https://www.youtube.com/channel/UCztGtS5YYiNv8x3pj9hLVgg/playlists
+
+All the online lecture videos have more than 500,000 views up to now.
+
 # About the author
 You can find my info on my homepage https://www.shiyuzhao.net/ (GoogleSite) and my research group website https://shiyuzhao.westlake.edu.cn
 
