@@ -63,6 +63,14 @@ I sincerely hope this book can help readers smoothly enter the exciting field of
 }
 ```
 
+# Source code
+
+Some enthusiastic readers sent me the source code that they developed when they studied this book. I would like to share the links here and hope it may be helpful to other readers. I must emphasize that I have not verified the code. If you have any questions, you can directly contact the developers. 
+
+Language: R
+
+https://github.com/NewbieToEverything/Code-Mathmatical-Foundation-of-Reinforcement-Learning
+
 # Update history 
 
 (Aug 2023)
