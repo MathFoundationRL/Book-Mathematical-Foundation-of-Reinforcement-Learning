@@ -2,7 +2,7 @@ My lecture slides are put into two folders.
 
 - The folder "slidesForMyLectureVideos" contains all **the slides that I used to record my lecture videos**.
 
-- The folder "slidesContinuouslyUpdated" contains **the slides that I updated continuously** (not all slides have been updated up to this moment).
+- The folder "slidesContinuouslyUpdated" contains **the slides that I updated continuously**.
 
 The slides in the two folders are very similar, but there are some minor differences, such as typo correction and content adjustment.
 
