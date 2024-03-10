@@ -39,9 +39,13 @@ This book, however, requires the reader to have some knowledge of probability th
 
 # Lecture videos 
 
-The lecture videos (in Chinese) are online. You can check the Bilibili channel https://space.bilibili.com/2044042934 or the Youtube channel https://www.youtube.com/channel/UCztGtS5YYiNv8x3pj9hLVgg/playlists
+By combining the book with my lecture videos, I believe you can study better. 
 
-All the online lecture videos have more than 500,000 views up to now.
+**Chinese lecture videos:** You can check the Bilibili channel https://space.bilibili.com/2044042934 or the Youtube channel https://www.youtube.com/channel/UCztGtS5YYiNv8x3pj9hLVgg/playlists
+
+The videos have been viewed over 700,000 times up to now, and received very good feedback!
+
+**English lecture videos:** I have been working on the English lecture videos. Hopefully we can finish in 2024. Please stay tuned.
 
 # About the author
 You can find my info on my homepage https://www.shiyuzhao.net/ (GoogleSite) and my research group website https://shiyuzhao.westlake.edu.cn
