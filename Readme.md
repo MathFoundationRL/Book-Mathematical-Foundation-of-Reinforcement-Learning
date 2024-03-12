@@ -77,6 +77,9 @@ Language: Python
 https://github.com/NewbieToEverything/Code-Mathmatical-Foundation-of-Reinforcement-Learning
 Language: R
 
+https://github.com/purundong/test_rl
+Language: C++
+
 **Notes:**
 
 https://lyk-love.cn/tags/reinforcement-learning/ 
