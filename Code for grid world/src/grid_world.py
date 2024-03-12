@@ -6,7 +6,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.patches as patches          
 from examples.arguments import args           
-# from src.utils import *
 
 class GridWorld():
 
