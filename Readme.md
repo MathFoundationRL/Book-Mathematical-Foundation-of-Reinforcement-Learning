@@ -69,16 +69,21 @@ I sincerely hope this book can help readers smoothly enter the exciting field of
 
 Some enthusiastic readers sent me the source code or notes that they developed when they studied this book. I would like to share the links here and hope it may be helpful to other readers. I must emphasize that I have not verified the code. If you have any questions, you can directly contact the developers. 
 
-**Code:**
+**Python code**
 
-https://github.com/jwk1rose/RL_Learning
-Language: Python
+https://github.com/ziwenhahaha/Code-of-RL-Beginning by RLGamer (Mar 2024)
+Videos for code explanation: https://www.bilibili.com/video/BV1fW421w7NH
+
+https://github.com/jwk1rose/RL_Learning by Wenkang Ji (Feb 2024)
+
+**R code**
 
 https://github.com/NewbieToEverything/Code-Mathmatical-Foundation-of-Reinforcement-Learning
-Language: R
+
+**C++ code**
 
 https://github.com/purundong/test_rl
-Language: C++
+
 
 **Notes:**
 
