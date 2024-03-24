@@ -1,12 +1,6 @@
-# Minor update before printing (Mar 2024)
+# (Mar 2024) 2K stars!
 
-The third version of the draft of the book is online now. It is supposed to be the final version before printing. 
-
-Compared to the second version, the third version is improved in the sense that some minor typos have been corrected. Here, I would like to thank the readers who sent me their feedback. 
-
-# 1000+ stars (Sep 2023)
-
-The book received 1000+ stars! Thank everybody!
+The book has received 2K stars. I also received many positive evaluations of the book from many readers. Very glad that it can be helpful. 
 
 # Why a new book on reinforcement learning?
 
@@ -61,13 +55,13 @@ I sincerely hope this book can help readers smoothly enter the exciting field of
   title={Mathematical Foundations of Reinforcement Learning},
   author={S. Zhao},
   year={2024},
-  publisher={Springer Nature Press and Tsinghua University Press}
+  publisher={Springer Press}
 }
 ```
 
 # Third-party code and materials
 
-Some enthusiastic readers sent me the source code or notes that they developed when they studied this book. I would like to share the links here and hope it may be helpful to other readers. I must emphasize that I have not verified the code. If you have any questions, you can directly contact the developers. 
+Some enthusiastic readers sent me the source code or notes that they developed when they studied this book. I would like to share the links here and hope they may be helpful to other readers. I must emphasize that I have not verified the code. If you have any questions, you can directly contact the developers. 
 
 **Python code**
 
@@ -92,26 +86,36 @@ by Yukuan Lu, a student from UC Davis
 
 # Update history 
 
-(Aug 2023) Major update
+**(Mar 2024) Minor update before printing**
 
-**The second version of the draft of the book is online now!!**
+The third version of the draft of the book is online now. It is supposed to be the final version before printing. 
+
+Compared to the second version, the third version is improved in the sense that some minor typos have been corrected. Here, I would like to thank the readers who sent me their feedback. 
+
+**(Sep 2023) 1000+ stars**
+
+The book received 1000+ stars! Thank everybody!
+
+**(Aug 2023) Major update - second version**
+
+*The second version of the draft of the book is online now!!*
 
 Compared to the first version, which was online one year ago, the second version has been improved in various ways. For example, we replotted most of the figures, reorganized some contents to make them clearer, corrected some typos, and added Chapter 10, which was not included in the first version. 
 
 I put the first draft of this book online in August 2022. Up to now, I have received valuable feedback from many readers worldwide. I want to express my gratitude to these readers.
 
-(Nov 2022) 
+**(Nov 2022) Will be jointly published**
 
-This book will be published **jointly by Springer Nature and Tsinghua University Press**. It will probably be printed in the second half of 2023.
+This book will be published *jointly by Springer Nature and Tsinghua University Press*. It will probably be printed in the second half of 2023.
 
 I have received some comments and suggestions about this book from some readers. Thanks a lot, and I appreciate it. I am still collecting feedback and will probably revise the draft in several months. Your feedback can make this book more helpful for other readers!
 
-(Oct 2022)
+**(Oct 2022) Lecture notes and vidoes**
 
-The **lecture slides** have been uploaded in the folder "Lecture slides."
+The *lecture slides* have been uploaded in the folder "Lecture slides."
 
-The **lecture videos** (in Chinese) are online. Please check our Bilibili channel https://space.bilibili.com/2044042934 or the Youtube channel https://www.youtube.com/channel/UCztGtS5YYiNv8x3pj9hLVgg/playlists
+The *lecture videos* (in Chinese) are online. Please check our Bilibili channel https://space.bilibili.com/2044042934 or the Youtube channel https://www.youtube.com/channel/UCztGtS5YYiNv8x3pj9hLVgg/playlists
 
-(Aug 2022)
+**(Aug 2022) First draft**
 
 The first draft of the book is online.
