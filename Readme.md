@@ -88,7 +88,7 @@ by a graduate student from UC Davis
 
 *Chinese* 
 
-https://zhuanlan.zhihu.com/p/690916844
+https://www.zhihu.com/column/c_1759940231233744896
 
 https://blog.csdn.net/qq_64671439/category_12540921.html
 
