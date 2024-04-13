@@ -79,10 +79,22 @@ https://github.com/NewbieToEverything/Code-Mathmatical-Foundation-of-Reinforceme
 https://github.com/purundong/test_rl
 
 
-**Notes:**
+**Study notes:**
+
+*English*
 
 https://lyk-love.cn/tags/reinforcement-learning/ 
-by Yukuan Lu, a student from UC Davis
+by a graduate student from UC Davis
+
+*Chinese* 
+
+https://zhuanlan.zhihu.com/p/690916844
+
+https://blog.csdn.net/qq_64671439/category_12540921.html
+
+https://blog.csdn.net/LvGreat/article/details/135441018?spm=1001.2014.3001.5501
+
+There are also many others notes made by many other readers on the Internet.
 
 # Update history 
 
