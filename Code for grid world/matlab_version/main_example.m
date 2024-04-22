@@ -1,5 +1,4 @@
-% Copyright (C) Westlake University
-% Written by Yize Mi, Intelligent Unmanned Systems Laboratory, Westlake University, 2024
+% by Intelligent Unmanned Systems Laboratory, Westlake University, 2024
 
 clear 
 close all
