@@ -1,5 +1,5 @@
-% Copyright (C) Westlake University
-% Written by Yize Mi, Intelligent Unmanned Systems Laboratory, Westlake University, 2024
+% by Intelligent Unmanned Systems Laboratory, Westlake University, 2024
+
 function figure_plot(x_length, y_length, agent_state,final_state, obstacle_state, state_value, state_number, episode_length,state_update_2d,policy, action)
     %% Inverse y coordinate
  
