@@ -1,32 +1,29 @@
-# Quick Start
+# Code Implementation of  the Grid World Environment 
 
-This is the code implementation of *[Mathematical Foundations of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)*, instructed by Shiyu Zhao at Westlake University. We provide both the python and matlab implementations. 
+## Overview
+
+This repository contains the code implementation for the book *[Mathematical Foundations of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)*. This text serves as the course material for a reinforcement learning class taught by Professor Shiyu Zhao at Westlake University. Implementations are available in both Python and MATLAB.
+
+
 
 ## Python Version
 
-### Installation
+### Requirements
 
-We support Python 3.7, 3.8, 3.9,  3.10 and 3.11. Make sure the following packages are installed: `numpy` and `matplotlib`.
+- We support Python 3.7, 3.8, 3.9,  3.10 and 3.11. Make sure the following packages are installed: `numpy` and `matplotlib`.
+
 
 ### How to Run
 
-To run the example, follow the procedures:
+To run the example, follow the procedures :
 
-Ensure the following packages are installed: `numpy` and `matplotlib`
-
-Design your grid world environment in `examples/arguments.py`. For example, to specify the target state, modify the default value in the following sentence:
-
-```python
-parser.add_argument("--target-state", type=Union[list, tuple, np.ndarray], default=(4,4))
-```
-
-Change directory to the file `examples/`
+1. Change directory to the file `examples/`
 
 ```bash
 cd examples
 ```
 
-Run the script:
+2. Run the script:
 
 ```bash
 python example_grid_world.py
@@ -38,13 +35,33 @@ You will see a similar animation as shown below:
 
 
 
-### Change Argument 
+### Customize Your Environment
 
-**Open examples/arguments.py, and you can change arguments:**
+**Open `examples/arguments.py`, and then change arguments:**
 
-"env-size" denotes the the number of columns and rows of the grid world. 
+We provide the following basic arguments: "**env-size**", "**start-state**", "**target-state**", "**forbidden-states**", "**reward-target**", "**reward-forbidden**", "**reward-step**":
 
-The coordinate system for all the states in the environment, e.g., start-state, target-state and forbidden-states, here aligns with the conventional setup in Python, where `(0, 0)` is typically used as the origin of coordinates.
+- "env-size" is represented as a tuple, where the first element represents the column index (horizontal coordinate), and the second element represents the row index (vertical coordinate).
+
+- "start-state" denotes where agent starts.
+
+- "target-state" denotes the position of the target. 
+
+- "forbidden-states" denotes the positions of obstacles. 
+
+- "reward-target", "reward-forbidden" and "reward-step" represents the reward when reaching target, the reward when entering into forbidden area, the reward for each step, respectively.  
+
+An using example is shown below:
+
+To specify the target state, modify the default value in the following sentence:
+
+```python
+parser.add_argument("--target-state", type=Union[list, tuple, np.ndarray], default=(4,4))
+```
+
+Please note that the coordinate system used for all states within the environment—such as the start state, target state, and forbidden states—adheres to the conventional Python setup. In this system, the point `(0, 0)` is commonly designated as the origin of coordinates.
+
+
 
 If you want to save figures in each step, please modify the "debug" argument to  "True":
 
@@ -54,9 +71,9 @@ parser.add_argument("--debug", type=bool, default=True)
 
 
 
-### API Interface
+### Create an Instance
 
-The grid world environments as simple Python `env` classes. Creating the grid world environment instances and interacting with them is very simple:
+The grid world environments as simple Python `env` classes. The procedure for creating the grid world environment instances and interacting with them can be found in `examples/example_grid_world.py`,:
 
 ```python
 from src.grid_world import GridWorld
@@ -73,14 +90,15 @@ from src.grid_world import GridWorld
 
 ![](python_version/plots/sample1.png)
 
-The policy is constructed as a matrix form, which can be designed to be deterministic or stochastic:
+The policy is constructed as a matrix form shown below, which can be designed to be deterministic or stochastic. The example is a stochastic version:
 
  ```python
+     # Add policy
      policy_matrix=np.random.rand(env.num_states,len(env.action_space))                                       
      policy_matrix /= policy_matrix.sum(axis=1)[:, np.newaxis] 
  ```
 
-Moreover, If the length of the arrow is too large, you can open src/grid_world.py, and change the magnitude of the length:
+Moreover, to change the shape of arrow, you can open `src/grid_world.py`:
 
  ```python
 self.ax.add_patch(patches.FancyArrow(x, y, dx=(0.1+action_probability/2)*dx, dy=(0.1+action_probability/2)*dy, color=self.color_policy, width=0.001, head_width=0.05))   
@@ -90,7 +108,7 @@ self.ax.add_patch(patches.FancyArrow(x, y, dx=(0.1+action_probability/2)*dx, dy=
 
 ![](python_version/plots/sample2.png)
 
- To add state values:
+ To add state value to each grid:
 
 ```python
 values = np.random.uniform(0,10,(env.num_states,))
@@ -107,15 +125,15 @@ env.render(animation_interval=3)    # the figure will stop for 3 seconds
 
 
 
-## Matlab Version
+## MATLAB Version
 
 ### Requirements
 
-- Matlab >= R2020a, in order to implement the function *exportgraphics()*.
+- MATLAB >= R2020a, in order to implement the function *exportgraphics()*.
 
 ### How to Run
 
-Please start the m-file "main.m". 
+Please start the m-file `main.m`. 
 
 Four figures will be illustrated: 
 
@@ -123,7 +141,23 @@ The first figure is to show the policy: The length of arrow is related to the pr
 
 <img src="matlab_version/policy_offline_Q_learning.jpg" alt="policy_offline_Q_learning" style="zoom:67%;" />
 
+The shape of the arrow can be customized in `figure_plot_1.m`
 
+```matlab
+function drawPolicyArrow(kk, ind, i_bias, j_bias, kk_new, ratio, greenColor, action)
+    % Obtain the action vector
+    action = action{kk};
+
+    % For the non-moving action, draw a circle to represent the stay state
+    if action(1) == 0 && action(2) == 0  % Assuming the fifth action is to stay
+        plot(i_bias(ind), j_bias(ind), 'o', 'MarkerSize', 8, 'linewidth', 2, 'color', greenColor);
+        return;
+    else
+        arrow = annotation('arrow', 'Position', [i_bias(ind), j_bias(ind), ratio * kk_new * action(1), - ratio * kk_new * action(2)], 'LineStyle', '-', 'Color', greenColor, 'LineWidth', 2);
+        arrow.Parent = gca;
+    end
+end
+```
 
 The second and the third figures are used to draw the trajectory in two different manner: 
 
@@ -137,7 +171,7 @@ The fourth figure is used to show the state value for each state.
 
 ### API interface
 
-The main algorithm:
+The main reinforcement learning algorithm is shown below:
 
 ```matlab
 for step = 1:episode_length
@@ -150,7 +184,7 @@ for step = 1:episode_length
 end
 ```
 
-The stochastic policy is shown as:
+The stochastic policy can be designed as:
 
 ```matlab
 function action = stochastic_policy(state, action_space, policy, x_length, y_length)
@@ -170,7 +204,7 @@ function action = stochastic_policy(state, action_space, policy, x_length, y_len
 end
 ```
 
-The state transition function:
+The state transition function is shown below:
 
 ```matlab
 function [new_state, reward] = next_state_and_reward(state, action, x_length, y_length, target_state, obstacle_state, reward_forbidden, reward_target, reward_step)
@@ -195,9 +229,7 @@ function [new_state, reward] = next_state_and_reward(state, action, x_length, y_
 end
 ```
 
-## About the Authors
+## Authors of the Code
 
-The instructor's homepage https://www.shiyuzhao.net/ (Google Site) and the research group website [https://shiyuzhao.westlake.edu.cn](https://shiyuzhao.westlake.edu.cn/).
-
-Both the python and MATLAB code for the grid environment is provided and maintained by Yize Mi miyize@westlake.edu.cn. The original version of the python code is provided by Jianan Li (lijianan@westlake.edu.cn) (has graduated). 
+Both the python and MATLAB code for the grid environment is provided and maintained by Yize Mi miyize@westlake.edu.cn. The original version of the python code is provided by Jianan Li (has graduated) (lijianan@westlake.edu.cn) . 
 
