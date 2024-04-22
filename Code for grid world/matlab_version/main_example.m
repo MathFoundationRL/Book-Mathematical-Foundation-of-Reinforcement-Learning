@@ -1,4 +1,4 @@
-% by Intelligent Unmanned Systems Laboratory, Westlake University, 2024
+% by the Intelligent Unmanned Systems Laboratory, Westlake University, 2024
 
 clear 
 close all
