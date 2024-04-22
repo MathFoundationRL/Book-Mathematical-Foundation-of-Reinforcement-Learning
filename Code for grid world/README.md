@@ -5,7 +5,8 @@
 This contains the code for the grid-world environment in my book. You can develop and test your own algorithms in this environment. Both Python and MATLAB versions are provided.
 
 Please note that the algorithms are not included. That is because they are the homework for the students in offline courses: the students are asked to develop their own algorithms using the provided environment. Nevertheless, there are third-party implementations of some algorithms. Interested readers can check the links on the home page of the book.
-![image](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning/assets/110452525/eec749b6-5259-4dc3-ae2d-c785055b213a)
+
+----
 
 ## Python Version
 
@@ -136,8 +137,6 @@ env.render(animation_interval=3)    # the figure will stop for 3 seconds
 ```
 
 ------
-------
-
 
 ## MATLAB Version
 
