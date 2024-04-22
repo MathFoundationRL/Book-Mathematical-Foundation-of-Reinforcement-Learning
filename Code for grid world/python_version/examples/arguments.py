@@ -34,7 +34,7 @@ parser.add_argument("--reward-step", type=float, default = -1)
 
 ## ==================== Advanced Settings ====================
 parser.add_argument("--action-space", type=list, default=[(0, 1), (1, 0), (0, -1), (-1, 0), (0, 0)] )  # down, right, up, left, stay           
-parser.add_argument("--debug", type=bool, default=True)
+parser.add_argument("--debug", type=bool, default=False)
 parser.add_argument("--animation-interval", type=float, default = 0.2)
 ## ==================== End of Advanced settings ====================
 

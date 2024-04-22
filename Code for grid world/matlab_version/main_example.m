@@ -67,7 +67,7 @@ for step = 1:episode_length
     reward_history(step) = reward;
 end
 
-figure_plot_1(x_length, y_length, agent_state, final_state, obstacle_state, state_value, state, episode_length, state_history, policy, actions);
+figure_plot(x_length, y_length, agent_state, final_state, obstacle_state, state_value, state, episode_length, state_history, policy, actions);
 
 %%   useful function 
 function [new_state, reward] = next_state_and_reward(state, action, x_length, y_length, target_state, obstacle_state, reward_forbidden, reward_target, reward_step)

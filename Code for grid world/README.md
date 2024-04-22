@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code implementation for the book *[Mathematical Foundations of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)*. This text serves as the course material for a reinforcement learning class taught by Professor Shiyu Zhao at Westlake University. Implementations are available in both Python and MATLAB.
+This repository contains the code implementation for the book *[Mathematical Foundations of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)*. The code primarily includes two key components: the basic framework for reinforcement learning (RL) and the functions for plotting the grid world environment. You need to design the specific RL algorithms required for your applications. Implementations are available in both Python and MATLAB.
 
 
 
@@ -13,7 +13,7 @@ This repository contains the code implementation for the book *[Mathematical Fou
 - We support Python 3.7, 3.8, 3.9,  3.10 and 3.11. Make sure the following packages are installed: `numpy` and `matplotlib`.
 
 
-### How to Run
+### How to Run the Default Example
 
 To run the example, follow the procedures :
 
@@ -29,15 +29,22 @@ cd examples
 python example_grid_world.py
 ```
 
-You will see a similar animation as shown below:
+You will see an animation as shown below:
+
+- The blue star denotes the agent's current position within the grid world.
+- The arrows on each grid illustrate the policy for that state. 
+- The green line traces the agent's historical trajectory. 
+- Obstacles are marked with yellow grids. 
+- The target state is indicated by a blue grid. 
+- The numerical values displayed on each grid represent the state values, which are initially generated as random numbers between 0 and 10. You may need to design your own algorithms to calculate these state values later on. 
+- The horizontal number list above the grid world represents the horizontal coordinates (x-axis) of each grid.
+- The vertical number list on the left side represents their vertical coordinates (y-axis).
 
 ![](python_version/plots/sample4.png)
 
+### Customize the Parameters of the Grid World Environment
 
-
-### Customize Your Environment
-
-**Open `examples/arguments.py`, and then change arguments:**
+If you would like to customize your own grid world settings, please open `examples/arguments.py`, and then change arguments:
 
 We provide the following basic arguments: "**env-size**", "**start-state**", "**target-state**", "**forbidden-states**", "**reward-target**", "**reward-forbidden**", "**reward-step**":
 
@@ -51,7 +58,7 @@ We provide the following basic arguments: "**env-size**", "**start-state**", "**
 
 - "reward-target", "reward-forbidden" and "reward-step" represents the reward when reaching target, the reward when entering into forbidden area, the reward for each step, respectively.  
 
-An using example is shown below:
+A using example is shown below:
 
 To specify the target state, modify the default value in the following sentence:
 
@@ -73,7 +80,7 @@ parser.add_argument("--debug", type=bool, default=True)
 
 ### Create an Instance
 
-The grid world environments as simple Python `env` classes. The procedure for creating the grid world environment instances and interacting with them can be found in `examples/example_grid_world.py`,:
+If you would like to use the grid world environment into your own RL algorithms, it is required to create an instance. The procedure for creating the grid world environment instances and interacting with them can be found in `examples/example_grid_world.py`:
 
 ```python
 from src.grid_world import GridWorld
@@ -90,7 +97,8 @@ from src.grid_world import GridWorld
 
 ![](python_version/plots/sample1.png)
 
-The policy is constructed as a matrix form shown below, which can be designed to be deterministic or stochastic. The example is a stochastic version:
+- The policy is constructed as a matrix form shown below, which can be designed to be deterministic or stochastic. The example is a stochastic version:
+
 
  ```python
      # Add policy
@@ -98,7 +106,8 @@ The policy is constructed as a matrix form shown below, which can be designed to
      policy_matrix /= policy_matrix.sum(axis=1)[:, np.newaxis] 
  ```
 
-Moreover, to change the shape of arrow, you can open `src/grid_world.py`:
+- Moreover, to change the shape of arrow, you can open `src/grid_world.py`:
+
 
  ```python
 self.ax.add_patch(patches.FancyArrow(x, y, dx=(0.1+action_probability/2)*dx, dy=(0.1+action_probability/2)*dy, color=self.color_policy, width=0.001, head_width=0.05))   
@@ -108,7 +117,8 @@ self.ax.add_patch(patches.FancyArrow(x, y, dx=(0.1+action_probability/2)*dx, dy=
 
 ![](python_version/plots/sample2.png)
 
- To add state value to each grid:
+-  To add state value to each grid:
+
 
 ```python
 values = np.random.uniform(0,10,(env.num_states,))
@@ -117,11 +127,14 @@ env.add_state_values(values)
 
 ![](python_version/plots/sample3.png)
 
-To render the environment:
+- To render the environment:
+
 
 ```python
 env.render(animation_interval=3)    # the figure will stop for 3 seconds
 ```
+
+------
 
 
 
@@ -131,13 +144,13 @@ env.render(animation_interval=3)    # the figure will stop for 3 seconds
 
 - MATLAB >= R2020a, in order to implement the function *exportgraphics()*.
 
-### How to Run
+### How to Run the Default Example
 
 Please start the m-file `main.m`. 
 
 Four figures will be illustrated: 
 
-The first figure is to show the policy: The length of arrow is related to the probability of choosing this action, and the circle represents the agent stays in the current state.
+The first figure is to show the policy: The length of arrow is related to the probability of choosing this action, and the circle represents the agent stays in the current state. The meanings of other graphics and colors in this visualization are consistent with those used in Python.
 
 <img src="matlab_version/policy_offline_Q_learning.jpg" alt="policy_offline_Q_learning" style="zoom:67%;" />
 
@@ -159,7 +172,7 @@ function drawPolicyArrow(kk, ind, i_bias, j_bias, kk_new, ratio, greenColor, act
 end
 ```
 
-The second and the third figures are used to draw the trajectory in two different manner: 
+The second and the third figures are used to draw the trajectory in two different manners: The former is provided for the trajectory generated by stochastic policy. The latter is provided to show the deterministic trajectory. 
 
 <img src="matlab_version/trajectory_Q_learning.jpg" alt="trajectory_Q_learning" style="zoom:67%;" />
 
@@ -171,7 +184,8 @@ The fourth figure is used to show the state value for each state.
 
 ### Code Description
 
-The main reinforcement learning algorithm is shown below:
+- The main reinforcement learning algorithm is shown below:
+
 
 ```matlab
 for step = 1:episode_length
@@ -184,7 +198,8 @@ for step = 1:episode_length
 end
 ```
 
-The stochastic policy can be designed as:
+- The policy is shown as:
+
 
 ```matlab
 function action = stochastic_policy(state, action_space, policy, x_length, y_length)
@@ -204,7 +219,8 @@ function action = stochastic_policy(state, action_space, policy, x_length, y_len
 end
 ```
 
-The state transition function is shown below:
+- The state transition function is shown below:
+
 
 ```matlab
 function [new_state, reward] = next_state_and_reward(state, action, x_length, y_length, target_state, obstacle_state, reward_forbidden, reward_target, reward_step)
