@@ -169,7 +169,7 @@ The fourth figure is used to show the state value for each state.
 
 <img src="matlab_version/trajectory_Bellman_Equation.jpg" alt="trajectory_Bellman_Equation" style="zoom:67%;" />
 
-### API interface
+### Code Description
 
 The main reinforcement learning algorithm is shown below:
 
