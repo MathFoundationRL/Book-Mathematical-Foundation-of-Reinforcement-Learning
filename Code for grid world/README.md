@@ -1,10 +1,10 @@
-# Code Implementation of  the Grid World Environment 
+# Code for the Grid-World Environment 
 
 ## Overview
 
-This repository contains the code implementation for the book *[Mathematical Foundations of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)*. The code primarily includes two key components: the basic framework for reinforcement learning (RL) and the functions for plotting the grid world environment. You need to design the specific RL algorithms required for your applications. Implementations are available in both Python and MATLAB.
+This contains the code for the grid-world environment in my book. You can develop and test your own algorithms in this environment. Both Python and MATLAB versions are provided.
 
-
+Please note that the algorithms are not included. That is because they are the homework for the students in offline courses: the students are asked to develop their own algorithms using the provided environment. Nevertheless, there are third-party implementations of some algorithms. Interested readers can check the links on the home page of the book.
 
 ## Python Version
 
@@ -15,9 +15,9 @@ This repository contains the code implementation for the book *[Mathematical Fou
 
 ### How to Run the Default Example
 
-To run the example, follow the procedures :
+To run the example, please follow the procedures :
 
-1. Change directory to the file `examples/`
+1. Change the directory to the file `examples/`
 
 ```bash
 cd examples
@@ -44,21 +44,21 @@ You will see an animation as shown below:
 
 ### Customize the Parameters of the Grid World Environment
 
-If you would like to customize your own grid world settings, please open `examples/arguments.py`, and then change arguments:
+If you would like to customize your own grid world environment, please open `examples/arguments.py` and then change the following arguments:
 
-We provide the following basic arguments: "**env-size**", "**start-state**", "**target-state**", "**forbidden-states**", "**reward-target**", "**reward-forbidden**", "**reward-step**":
+"**env-size**", "**start-state**", "**target-state**", "**forbidden-states**", "**reward-target**", "**reward-forbidden**", "**reward-step**":
 
 - "env-size" is represented as a tuple, where the first element represents the column index (horizontal coordinate), and the second element represents the row index (vertical coordinate).
 
-- "start-state" denotes where agent starts.
+- "start-state" denotes where the agent starts.
 
 - "target-state" denotes the position of the target. 
 
 - "forbidden-states" denotes the positions of obstacles. 
 
-- "reward-target", "reward-forbidden" and "reward-step" represents the reward when reaching target, the reward when entering into forbidden area, the reward for each step, respectively.  
+- "reward-target", "reward-forbidden" and "reward-step" represent the reward when reaching the target, the reward when entering a forbidden area, and the reward for each step, respectively.  
 
-A using example is shown below:
+An example is shown below:
 
 To specify the target state, modify the default value in the following sentence:
 
@@ -80,7 +80,7 @@ parser.add_argument("--debug", type=bool, default=True)
 
 ### Create an Instance
 
-If you would like to use the grid world environment into your own RL algorithms, it is required to create an instance. The procedure for creating the grid world environment instances and interacting with them can be found in `examples/example_grid_world.py`:
+If you would like to use the grid world environment to test your own RL algorithms, it is necessary to create an instance. The procedure for creating an instance and interacting with it can be found in `examples/example_grid_world.py`:
 
 ```python
 from src.grid_world import GridWorld
@@ -106,7 +106,7 @@ from src.grid_world import GridWorld
      policy_matrix /= policy_matrix.sum(axis=1)[:, np.newaxis] 
  ```
 
-- Moreover, to change the shape of arrow, you can open `src/grid_world.py`:
+- Moreover, to change the shape of the arrows, you can open `src/grid_world.py`:
 
 
  ```python
@@ -135,7 +135,7 @@ env.render(animation_interval=3)    # the figure will stop for 3 seconds
 ```
 
 ------
-
+------
 
 
 ## MATLAB Version
@@ -148,9 +148,9 @@ env.render(animation_interval=3)    # the figure will stop for 3 seconds
 
 Please start the m-file `main.m`. 
 
-Four figures will be illustrated: 
+Four figures will be generated: 
 
-The first figure is to show the policy: The length of arrow is related to the probability of choosing this action, and the circle represents the agent stays in the current state. The meanings of other graphics and colors in this visualization are consistent with those used in Python.
+The first figure is to show the policy: The length of an arrow is proportional to the probability of choosing this action, and the circle represents the agent would stay still. The meanings of other graphics and colors in this visualization are consistent with those used in Python.
 
 <img src="matlab_version/policy_offline_Q_learning.jpg" alt="policy_offline_Q_learning" style="zoom:67%;" />
 
@@ -161,7 +161,7 @@ function drawPolicyArrow(kk, ind, i_bias, j_bias, kk_new, ratio, greenColor, act
     % Obtain the action vector
     action = action{kk};
 
-    % For the non-moving action, draw a circle to represent the stay state
+    % For the non-moving action, draw a circle
     if action(1) == 0 && action(2) == 0  % Assuming the fifth action is to stay
         plot(i_bias(ind), j_bias(ind), 'o', 'MarkerSize', 8, 'linewidth', 2, 'color', greenColor);
         return;
@@ -244,8 +244,3 @@ function [new_state, reward] = next_state_and_reward(state, action, x_length, y_
     end
 end
 ```
-
-## Authors of the Code
-
-Both the python and MATLAB code for the grid environment is provided and maintained by Yize Mi miyize@westlake.edu.cn. The original version of the python code is provided by Jianan Li (has graduated) (lijianan@westlake.edu.cn) . 
-
