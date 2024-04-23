@@ -71,7 +71,7 @@ I sincerely hope this book can help readers smoothly enter the exciting field of
 
 # Third-party code and materials
 
-Some enthusiastic readers sent me the source code or notes that they developed when they studied this book. I would like to share the links here and hope they may be helpful to other readers. I must emphasize that I have not verified the code. If you have any questions, you can directly contact the developers. 
+Many enthusiastic readers sent me the source code or notes that they developed when they studied this book. I am happy to share the links here and hope they may be helpful to other readers. I must emphasize that I have not verified the code. If you have any questions, you can directly contact the developers. 
 
 **Python code**
 
