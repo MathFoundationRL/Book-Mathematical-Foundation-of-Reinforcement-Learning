@@ -1,13 +1,3 @@
-# (Apr 2024) Code for the Grid-World Environment
-
-We added the code for the grid-world environment in my book. Interested readers can develop and test their own algorithms in this environment. Both Python and MATLAB versions are provided.
-
-Please note that we do not provide the code of all the algorithms involved in the book. That is because they are the homework for the students in offline teaching: the students need to develop their own algorithms using the provided environment. Nevertheless, there are third-party implementations of some algorithms. Interested readers can check the links on the home page of the book.
-
-I need to thank my PhD students, Yize Mi and Jianan Li, who are also the Teaching Assistants of my offline teaching. They contributed greatly to the code.
-
-You are welcome to provide any feedback about the code such as bugs if detected.
-
 # (Mar 2024) 2K stars!
 
 The book has received 2K stars. I also received many positive evaluations of the book from many readers. Very glad that it can be helpful. 
@@ -107,6 +97,16 @@ https://blog.csdn.net/LvGreat/article/details/135441018?spm=1001.2014.3001.5501
 There are also many others notes made by many other readers on the Internet.
 
 # Update history 
+
+**(Apr 2024) Code for the Grid-World Environment**
+
+We added the code for the grid-world environment in my book. Interested readers can develop and test their own algorithms in this environment. Both Python and MATLAB versions are provided.
+
+Please note that we do not provide the code of all the algorithms involved in the book. That is because they are the homework for the students in offline teaching: the students need to develop their own algorithms using the provided environment. Nevertheless, there are third-party implementations of some algorithms. Interested readers can check the links on the home page of the book.
+
+I need to thank my PhD students, Yize Mi and Jianan Li, who are also the Teaching Assistants of my offline teaching. They contributed greatly to the code.
+
+You are welcome to provide any feedback about the code such as bugs if detected.
 
 **(Mar 2024) Minor update before printing**
 
