@@ -37,7 +37,7 @@ By combining the book with my lecture videos, I believe you can study better.
 
 **Chinese lecture videos:** You can check the Bilibili channel https://space.bilibili.com/2044042934 or the Youtube channel https://www.youtube.com/channel/UCztGtS5YYiNv8x3pj9hLVgg/playlists
 
-The videos have been viewed over 700,000 times up to now, and received very good feedback!
+The lecture videos have received **800,000+ views** up to May 2024 over the Internet and received very good feedback!
 
 **English lecture videos:** I have been working on the English lecture videos. Hopefully we can finish in 2024. Please stay tuned.
 
