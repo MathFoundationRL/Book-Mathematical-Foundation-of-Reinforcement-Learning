@@ -35,11 +35,10 @@ This book, however, requires the reader to have some knowledge of probability th
 
 By combining the book with my lecture videos, I believe you can study better. 
 
-**Chinese lecture videos:** You can check the Bilibili channel https://space.bilibili.com/2044042934 or the Youtube channel https://www.youtube.com/channel/UCztGtS5YYiNv8x3pj9hLVgg/playlists
-
+- **Chinese lecture videos:** You can check the Bilibili channel https://space.bilibili.com/2044042934 or the Youtube channel https://www.youtube.com/channel/UCztGtS5YYiNv8x3pj9hLVgg/playlists
 The lecture videos have received **800,000+ views** up to May 2024 over the Internet and received very good feedback!
 
-**English lecture videos:** I have been working on the English lecture videos. Hopefully we can finish in 2024. Please stay tuned.
+- **English lecture videos:** I have been working on the English lecture videos. Hopefully we can finish in 2024. Please stay tuned.
 
 # About the author
 You can find my info on my homepage https://www.shiyuzhao.net/ (GoogleSite) and my research group website https://shiyuzhao.westlake.edu.cn
@@ -65,30 +64,30 @@ Many enthusiastic readers sent me the source code or notes that they developed w
 
 **Code**
 
-*Python:*
+- *Python:*
 
 https://github.com/ziwenhahaha/Code-of-RL-Beginning by RLGamer (Mar 2024)
 Videos for code explanation: https://www.bilibili.com/video/BV1fW421w7NH
 
 https://github.com/jwk1rose/RL_Learning by Wenkang Ji (Feb 2024)
 
-*R:*
+- *R:*
 
 https://github.com/NewbieToEverything/Code-Mathmatical-Foundation-of-Reinforcement-Learning
 
-*C++:*
+- *C++:*
 
 https://github.com/purundong/test_rl
 
 
 **Study notes**
 
-*English:*
+- *English:*
 
 https://lyk-love.cn/tags/reinforcement-learning/ 
 by a graduate student from UC Davis
 
-*Chinese:* 
+- *Chinese:* 
 
 https://www.zhihu.com/column/c_1759940231233744896
 
