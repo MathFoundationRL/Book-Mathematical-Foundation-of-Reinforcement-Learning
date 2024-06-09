@@ -1,3 +1,9 @@
+# (Jun 2024) Minor update before printing
+
+This is the fourth version of the draft of the book. It is supposed to be the final update before book printing/publishing. 
+
+When proofreading the book manuscript for formal printing, I detected some minor issues. Together with some minor issues reported by enthusiastic readers, they have been revised in this version.
+
 # (Mar 2024) 2K stars!
 
 The book has received 2K stars. I also received many positive evaluations of the book from many readers. Very glad that it can be helpful. 
@@ -109,9 +115,9 @@ I need to thank my PhD students, Yize Mi and Jianan Li, who are also the Teachin
 
 You are welcome to provide any feedback about the code such as bugs if detected.
 
-**(Mar 2024) Minor update before printing**
+**(Mar 2024) Minor update**
 
-The third version of the draft of the book is online now. It is supposed to be the final version before printing. 
+The third version of the draft of the book is online now.
 
 Compared to the second version, the third version is improved in the sense that some minor typos have been corrected. Here, I would like to thank the readers who sent me their feedback. 
 
