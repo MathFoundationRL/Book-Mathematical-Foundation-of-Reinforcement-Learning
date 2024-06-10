@@ -1,8 +1,6 @@
 # (Jun 2024) Minor update before printing
 
-This is the fourth version of the draft of the book. It is supposed to be the final update before book printing/publishing. 
-
-When proofreading the book manuscript for formal printing, I detected some minor issues. Together with some minor issues reported by enthusiastic readers, they have been revised in this version.
+This is the fourth version of the book draft. It is supposed to be the final one before the book is officially published. Specifically, when proofreading the book manuscript, I detected some very minor issues. Together with some reported by enthusiastic readers, they have been revised in this version.
 
 # (Mar 2024) 2K stars!
 
