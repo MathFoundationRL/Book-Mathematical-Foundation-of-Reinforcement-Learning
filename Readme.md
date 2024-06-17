@@ -1,3 +1,16 @@
+# (Jun 2024) English lecture videos!
+
+[![](./Figure_EnglishLectureVideo.jpg)](https://youtu.be/DF7oOdz1174?si=ZY8HTjvPmd9spYzT)
+
+My first English lecture video is online now. You can click the above figure or the [link here](https://youtu.be/DF7oOdz1174?si=ZY8HTjvPmd9spYzT) to jump to our YouTube channel. 
+
+There will be 50+ lecture videos in total. Each video is about 10~20 min long. We have been working on these videos for a while. All these videos will be uploaded one by one within the next few months. Please stay tuned!
+
+These videos are translated using AI tools from my Chinese lecture videos, which have received nearly 1 million views over the Internet up to now. Since the AI translation tools are not mature nowadays, we have to put a lot of efforts into creating these English videos. 
+
+Hope these videos are helpful to you!
+
+
 # (Jun 2024) Minor update before printing
 
 This is the fourth version of the book draft. It is supposed to be the final one before the book is officially published. Specifically, when proofreading the book manuscript, I detected some very minor issues. Together with some reported by enthusiastic readers, they have been revised in this version.
