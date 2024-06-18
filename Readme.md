@@ -1,8 +1,8 @@
 # (Jun 2024) English lecture videos!
 
-[![](./Figure_EnglishLectureVideo.jpg)](https://youtu.be/DF7oOdz1174?si=ZY8HTjvPmd9spYzT)
+[![](./Figure_EnglishLectureVideo.jpg)](https://youtube.com/playlist?list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&si=D1T4pcyHsMxj6CzB)
 
-My first English lecture video is online now. You can click the above figure or the [link here](https://youtu.be/DF7oOdz1174?si=ZY8HTjvPmd9spYzT) to jump to our YouTube channel. 
+My first English lecture video is online now. You can click the above figure or the [link here](https://youtube.com/playlist?list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&si=D1T4pcyHsMxj6CzB) to jump to our YouTube channel. 
 
 There will be 50+ lecture videos in total. Each video is about 10~20 min long. We have been working on these videos for a while. All these videos will be uploaded one by one within the next few months. Please stay tuned!
 
