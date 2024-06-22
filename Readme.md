@@ -1,6 +1,6 @@
 # (Jun 2024) English lecture videos!
 
-[![](./Figure_EnglishLectureVideo.jpg)](https://youtube.com/playlist?list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&si=D1T4pcyHsMxj6CzB)
+[![](./Figure_EnglishLectureVideo.png)](https://youtube.com/playlist?list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&si=D1T4pcyHsMxj6CzB)
 
 My first English lecture video is online now. You can click the above figure or the [link here](https://youtube.com/playlist?list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&si=D1T4pcyHsMxj6CzB) to jump to our YouTube channel. 
 
