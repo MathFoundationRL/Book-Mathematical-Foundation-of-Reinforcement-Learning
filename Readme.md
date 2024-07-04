@@ -115,13 +115,19 @@ by a graduate student from UC Davis
 
 - *Chinese:* 
 
-https://www.zhihu.com/column/c_1759940231233744896
+https://zhuanlan.zhihu.com/p/692207843 
 
 https://blog.csdn.net/qq_64671439/category_12540921.html
 
-https://blog.csdn.net/LvGreat/article/details/135441018?spm=1001.2014.3001.5501
+http://t.csdnimg.cn/EH4rj
 
-There are also many others notes made by many other readers on the Internet.
+https://blog.csdn.net/LvGreat/article/details/135454738
+
+https://xinzhe.blog.csdn.net/article/details/129452000  
+
+https://blog.csdn.net/v20000727/article/details/136870879?spm=1001.2014.3001.5502
+
+There are also many others notes made by many other readers on the Internet. You are welcome to recommend to me if you find a good one.
 
 # Update history 
 
