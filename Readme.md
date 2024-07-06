@@ -18,9 +18,9 @@
 - [L3: Bellman Optimality Equation (P4-Interesting properties)](https://youtu.be/4SeEvwbO9ns?si=yaCzuzow8s6psrLG)
 - More videos are on the way.
 
-The open course has ~50 short lecture videos and lasts for ~11 hours long in total.  More videos will be uploaded one by one within the next few months. Please stay tuned!
+There will be about 50 short lecture videos that last for about 11 hours long in total. The rest of the videos will be uploaded within the next few months. Please stay tuned!
 
-**You are warmly welcome to check out the videos to see if they are helpful!**
+You are warmly welcome to check out the English videos to see if they are helpful! The Chinese lecture videos have been quite popular and have received 900,000+ views in total over the Internet.
 
 # (Jul 2024) 2500+ Stars
 
