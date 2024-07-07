@@ -20,11 +20,13 @@
 
 There will be about 50 short lecture videos that last for about 11 hours long in total. The rest of the videos will be uploaded within the next few months. Please stay tuned!
 
-You are warmly welcome to check out the English videos to see if they are helpful! The Chinese lecture videos have been quite popular and have received 900,000+ views in total over the Internet.
+You are warmly welcome to check out the English videos to see if they are helpful!
 
-# (Jul 2024) 2500+ Stars
+# (Jul 2024) 2500+ stars and 900,000+ views
 
-The book has received 2500+ stars!
+The book has received 2500+ stars on GitHub! The lecture videos (Chinese version) have been quite popular and have received 900,000+ views in total over the Internet.
+
+***
 
 # Why a new book on reinforcement learning?
 
