@@ -88,42 +88,42 @@ Many enthusiastic readers sent me the source code or notes that they developed w
 
 **Code**
 
-- *Python:*
+*Python:*
 
-https://github.com/ziwenhahaha/Code-of-RL-Beginning by RLGamer (Mar 2024)
-Videos for code explanation: https://www.bilibili.com/video/BV1fW421w7NH
+- https://github.com/ziwenhahaha/Code-of-RL-Beginning by RLGamer (Mar 2024)
+  - Videos for code explanation: https://www.bilibili.com/video/BV1fW421w7NH
 
-https://github.com/jwk1rose/RL_Learning by Wenkang Ji (Feb 2024)
+- https://github.com/jwk1rose/RL_Learning by Wenkang Ji (Feb 2024)
 
-- *R:*
+*R:*
 
-https://github.com/NewbieToEverything/Code-Mathmatical-Foundation-of-Reinforcement-Learning
+- https://github.com/NewbieToEverything/Code-Mathmatical-Foundation-of-Reinforcement-Learning
 
-- *C++:*
+*C++:*
 
-https://github.com/purundong/test_rl
+- https://github.com/purundong/test_rl
 
 
 **Study notes**
 
-- *English:*
+*English:*
 
-https://lyk-love.cn/tags/reinforcement-learning/ 
+- https://lyk-love.cn/tags/reinforcement-learning/ 
 by a graduate student from UC Davis
 
-- *Chinese:* 
+*Chinese:* 
 
-https://zhuanlan.zhihu.com/p/692207843 
+- https://zhuanlan.zhihu.com/p/692207843 
 
-https://blog.csdn.net/qq_64671439/category_12540921.html
+- https://blog.csdn.net/qq_64671439/category_12540921.html
 
-http://t.csdnimg.cn/EH4rj
+- http://t.csdnimg.cn/EH4rj
 
-https://blog.csdn.net/LvGreat/article/details/135454738
+- https://blog.csdn.net/LvGreat/article/details/135454738
 
-https://xinzhe.blog.csdn.net/article/details/129452000  
+- https://xinzhe.blog.csdn.net/article/details/129452000  
 
-https://blog.csdn.net/v20000727/article/details/136870879?spm=1001.2014.3001.5502
+- https://blog.csdn.net/v20000727/article/details/136870879?spm=1001.2014.3001.5502
 
 There are also many others notes made by many other readers on the Internet. You are welcome to recommend to me if you find a good one.
 
