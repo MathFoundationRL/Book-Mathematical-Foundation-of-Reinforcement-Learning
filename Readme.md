@@ -16,7 +16,10 @@
 - [L3: Bellman Optimality Equation (P2-Optimal policy)](https://youtu.be/9952_YPmTJ0?si=HVnURFWA8y9Iuata)
 - [L3: Bellman Optimality Equation (P3-More on BOE)](https://youtu.be/jxcFmZmKNAg?si=o706FlazJw8vYTOn)
 - [L3: Bellman Optimality Equation (P4-Interesting properties)](https://youtu.be/4SeEvwbO9ns?si=yaCzuzow8s6psrLG)
-- More videos are on the way.
+- [L4: Value Iteration and Policy Iteration (P1-Value iteration)](https://youtu.be/2ok3Wnf8lhI?si=vVSJXZbtZNQuXQXh)
+- [L4: Value Iteration and Policy Iteration (P2-Policy iteration)](https://youtu.be/AgtlYZgFlsg?si=Jv5WHDjOWpBCJqYF)
+- [L4: Value Iteration and Policy Iteration (P3-Truncated policy iteration)](https://youtu.be/cVxNphDrc3s?si=NPGmrLo2dPkJ19hN)
+- More videos are on the way......
 
 There will be about 50 short lecture videos that last for about 11 hours long in total. The rest of the videos will be uploaded within the next few months. Please stay tuned!
 
