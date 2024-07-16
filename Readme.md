@@ -19,6 +19,12 @@
 - [L4: Value Iteration and Policy Iteration (P1-Value iteration)](https://youtu.be/2ok3Wnf8lhI?si=vVSJXZbtZNQuXQXh)
 - [L4: Value Iteration and Policy Iteration (P2-Policy iteration)](https://youtu.be/AgtlYZgFlsg?si=Jv5WHDjOWpBCJqYF)
 - [L4: Value Iteration and Policy Iteration (P3-Truncated policy iteration)](https://youtu.be/cVxNphDrc3s?si=NPGmrLo2dPkJ19hN)
+- [L5: Monte Carlo Learning (P1-Motivating examples)](https://www.youtube.com/watch?v=4l66vD4xxYU&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=16)
+- [L5: Monte Carlo Learning (P2-MC Basic-introduction)](https://www.youtube.com/watch?v=aiLqWj7ul1A&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=17)
+- [L5: Monte Carlo Learning (P3-MC Basic-examples)](https://www.youtube.com/watch?v=d1-vsZ1Frwk&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=18)
+- [L5: Monte Carlo Learning (P4-MC Exploring Starts)](https://www.youtube.com/watch?v=fxye6aXzgoM&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=19)
+- [L5: Monte Carlo Learning (P5-MC Epsilon-Greedy-introduction)](https://www.youtube.com/watch?v=edXmlYUFXqI&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=20)
+- [L5: Monte Carlo Learning (P6-MC Epsilon-Greedy-examples)](https://www.youtube.com/watch?v=GqEHOucryfA&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=21)
 - More videos are on the way......
 
 There will be about 50 short lecture videos that last for about 11 hours long in total. The rest of the videos will be uploaded within the next few months. Please stay tuned!
