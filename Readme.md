@@ -25,6 +25,13 @@
 - [L5: Monte Carlo Learning (P4-MC Exploring Starts)](https://www.youtube.com/watch?v=fxye6aXzgoM&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=19)
 - [L5: Monte Carlo Learning (P5-MC Epsilon-Greedy-introduction)](https://www.youtube.com/watch?v=edXmlYUFXqI&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=20)
 - [L5: Monte Carlo Learning (P6-MC Epsilon-Greedy-examples)](https://www.youtube.com/watch?v=GqEHOucryfA&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=21)
+- [L6: Stochastic Approximation and SGD (P1-Motivating example)](https://www.youtube.com/watch?v=GwJdgaXUhsw&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=22)
+- [L6: Stochastic Approximation and SGD (P2-RM algorithm: introduction)](https://www.youtube.com/watch?v=-VLfKLlS4Q4&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=23)
+- [L6: Stochastic Approximation and SGD (P3-RM algorithm: convergence)](https://www.youtube.com/watch?v=VWsUsX5QEUY&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=24)
+- [L6: Stochastic Approximation and SGD (P4-SGD algorithm: introduction)](https://www.youtube.com/watch?v=GW95BMB9Q2w&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=25)
+- [L6: Stochastic Approximation and SGD (P5-SGD algorithm: examples)](https://www.youtube.com/watch?v=CwW8_uw8jro&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=26)
+- [L6: Stochastic Approximation and SGD (P6-SGD algorithm: properties)](https://www.youtube.com/watch?v=22nl5O3OsL8&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=27)
+- [L6: Stochastic Approximation and SGD (P7-SGD algorithm: comparison)](https://www.youtube.com/watch?v=2RaPeBGDamk&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=28)
 - More videos are on the way......
 
 There will be about 50 short lecture videos that last for about 11 hours long in total. The rest of the videos will be uploaded within the next few months. Please stay tuned!
