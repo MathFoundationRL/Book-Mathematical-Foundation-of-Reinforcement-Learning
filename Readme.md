@@ -1,3 +1,9 @@
+# (Aug 2024) 3000+ Stars and more code
+
+The book has received 3000+ stars, which is a great achievement to me. Thanks to everyone. Hope it really helped you.
+
+I also received more code implementation from enthusiastic readers. For example, this [GitHub page](https://github.com/SupermanCaozh/The_Coding_Foundation_in_Reinforcement_Learning) provided Python implementation of almost all examples in my book. On the one hand, I am very glad to see that. On the other hand, I am a little worried that my students in my offline class may use the code to do their homework:-). Overall, I am happy because it indicates that the book and open course are really helpful to the readers.
+
 # (Jul 2024) English lecture videos!
 
 [![](./Figure_EnglishLectureVideo.png)](https://youtube.com/playlist?list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&si=D1T4pcyHsMxj6CzB)
@@ -37,10 +43,6 @@
 There will be about 50 short lecture videos that last for about 11 hours long in total. The rest of the videos will be uploaded within the next few months. Please stay tuned!
 
 You are warmly welcome to check out the English videos to see if they are helpful!
-
-# (Jul 2024) 2500+ stars and 900,000+ views
-
-The book has received 2500+ stars on GitHub! The lecture videos (Chinese version) have been quite popular and have received 900,000+ views in total over the Internet.
 
 ***
 
@@ -107,6 +109,8 @@ Many enthusiastic readers sent me the source code or notes that they developed w
 **Code**
 
 *Python:*
+
+- https://github.com/SupermanCaozh/The_Coding_Foundation_in_Reinforcement_Learning  (by Zehong Cao, Aug 2024)
 
 - https://github.com/ziwenhahaha/Code-of-RL-Beginning by RLGamer (Mar 2024)
   - Videos for code explanation: https://www.bilibili.com/video/BV1fW421w7NH
