@@ -2,7 +2,7 @@
 
 The book has received 3000+ stars, which is a great achievement to me. Thanks to everyone. Hope it really helped you.
 
-I also received more code implementation from enthusiastic readers. For example, this [GitHub page](https://github.com/SupermanCaozh/The_Coding_Foundation_in_Reinforcement_Learning) provided Python implementation of almost all examples in my book. On the one hand, I am very glad to see that. On the other hand, I am a little worried that my students in my offline class may use the code to do their homework:-). Overall, I am happy because it indicates that the book and open course are really helpful to the readers.
+I also received more code implementation from enthusiastic readers. For example, this [GitHub page](https://github.com/SupermanCaozh/The_Coding_Foundation_in_Reinforcement_Learning) provided Python implementation of almost all examples in my book. On the one hand, I am very glad to see that. On the other hand, I am a little worried that my students in my offline class may use the code to do their homework:-). Overall, I am happy because it indicates that the book and open course are really helpful to the readers; Otherwise, they would not bother to develop the code by themselves:-)
 
 # (Jul 2024) English lecture videos!
 
