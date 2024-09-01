@@ -1,3 +1,7 @@
+# (Sep 2024) Minor update before printing by Springer
+
+I revised some very minor places that readers may hardly notice. It is supposed to be the final version before printing by Springer. 
+
 # (Aug 2024) 3000+ Stars and more code
 
 The book has received 3000+ stars, which is a great achievement to me. Thanks to everyone. Hope it really helped you.
@@ -64,7 +68,7 @@ This book aims to provide a **mathematical but friendly** introduction to the fu
 
 The topics addressed in the book are shown in the figure below. This book contains ten chapters, which can be classified into two parts: the first part is about basic tools, and the second part is about algorithms. The ten chapters are highly correlated. In general, it is necessary to study the earlier chapters first before the later ones.
 
-![An illustration of the relationship between the contents in different chapters. If the figure is not displayed correctly, you can find the figure in the preface of this book.](./Figure_chapterRelationship.png)
+![The map of this book](./Figure_chapterMap.png)
 
 
 # Readership
