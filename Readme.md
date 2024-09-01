@@ -2,7 +2,7 @@
 
 I revised some very minor places that readers may hardly notice. It is supposed to be the final version before printing by Springer. 
 
-# (Aug 2024) 3000+ Stars and more code
+# (Aug 2024) 3000 Stars and more code
 
 The book has received 3000+ stars, which is a great achievement to me. Thanks to everyone. Hope it really helped you.
 
@@ -48,6 +48,8 @@ There will be about 50 short lecture videos that last for about 11 hours long in
 
 You are warmly welcome to check out the English videos to see if they are helpful!
 
+***
+***
 ***
 
 # Why a new book on reinforcement learning?
