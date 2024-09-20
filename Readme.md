@@ -42,6 +42,14 @@ I also received more code implementation from enthusiastic readers. For example,
 - [L6: Stochastic Approximation and SGD (P5-SGD algorithm: examples)](https://www.youtube.com/watch?v=BsxU_4qvvNA&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=26)
 - [L6: Stochastic Approximation and SGD (P6-SGD algorithm: properties)](https://www.youtube.com/watch?v=tPdVXQ_VOWc&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=27)
 - [L6: Stochastic Approximation and SGD (P7-SGD algorithm: comparison)](https://www.youtube.com/watch?v=yNEV2cLKuzU&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=28)
+- [L7: Temporal-Difference Learning (P1-Motivating example)](https://www.youtube.com/watch?v=u1X-7XX3dtI&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=29)
+- [L7: Temporal-Difference Learning (P2-TD algorithm: introduction)](https://www.youtube.com/watch?v=XiCUsc7CCE0&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=30)
+- [L7: Temporal-Difference Learning (P3-TD algorithm: convergence)](https://www.youtube.com/watch?v=faWg8M91-Oo&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=31)
+- [L7: Temporal-Difference Learning (P4-Sarsa)](https://www.youtube.com/watch?v=jYwQufkBUPo&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=32)
+- [L7: Temporal-Difference Learning (P5-Expected Sarsa & n-step Sarsa)](https://www.youtube.com/watch?v=Ap4GZ9MpgdI&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=33)
+- [L7: Temporal-Difference Learning (P6-Q-learning: introduction)](https://www.youtube.com/watch?v=4BvYR2hm730&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=34)
+- [L7: Temporal-Difference Learning (P7-Q-learning: pseudo code)](https://www.youtube.com/watch?v=I0YhlOIFF4s&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=35)
+- [L7: Temporal-Difference Learning (P8-Unified viewpoint and summary)](https://www.youtube.com/watch?v=3t74lvk1GBM&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=36)
 - More videos are on the way...
 
 There will be about 50 short lecture videos that last for about 11 hours long in total. The rest of the videos will be uploaded within the next few months. Please stay tuned!
