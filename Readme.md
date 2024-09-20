@@ -1,7 +1,3 @@
-# (Sep 2024) Minor update before printing by Springer
-
-I revised some very minor places that readers may hardly notice. It is supposed to be the final version before printing by Springer. 
-
 # (Aug 2024) 3000 Stars and more code
 
 The book has received 3000+ stars, which is a great achievement to me. Thanks to everyone. Hope it really helped you.
@@ -164,6 +160,10 @@ by a graduate student from UC Davis
 There are also many others notes made by many other readers on the Internet. You are welcome to recommend to me if you find a good one.
 
 # Update history 
+
+**(Sep 2024) Minor update before printing by Springer**
+
+I revised some very minor places that readers may hardly notice. It is supposed to be the final version before printing by Springer. 
 
 **(Jun 2024) Minor update before printing**
 
