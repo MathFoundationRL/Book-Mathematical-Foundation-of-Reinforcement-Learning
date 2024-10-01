@@ -6,7 +6,7 @@ I also received more code implementation from enthusiastic readers. For example,
 
 # (Jul 2024) English lecture videos!
 
-[![](./Figure_EnglishLectureVideo.png)](https://youtube.com/playlist?list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&si=D1T4pcyHsMxj6CzB)
+[![](./Figure_EnglishLectureVideo.png)](https://www.youtube.com/watch?v=ZHMWHr9811U&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=1)
 
 **My English open course is online now.** You can click the above figure or the [link here](https://youtube.com/playlist?list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&si=D1T4pcyHsMxj6CzB) to jump to our YouTube channel. You can also click the following links to be directed to specific lecture videos.
 
