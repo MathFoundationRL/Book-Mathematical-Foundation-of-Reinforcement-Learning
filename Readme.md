@@ -42,7 +42,7 @@ I also received more code implementation from enthusiastic readers. For example,
 - [L7: Temporal-Difference Learning (P2-TD algorithm: introduction)](https://www.youtube.com/watch?v=XiCUsc7CCE0&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=30)
 - [L7: Temporal-Difference Learning (P3-TD algorithm: convergence)](https://www.youtube.com/watch?v=faWg8M91-Oo&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=31)
 - [L7: Temporal-Difference Learning (P4-Sarsa)](https://www.youtube.com/watch?v=jYwQufkBUPo&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=32)
-- [L7: Temporal-Difference Learning (P5-Expected Sarsa & n-step Sarsa)](https://www.youtube.com/watch?v=Ap4GZ9MpgdI&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=33)
+- [L7: Temporal-Difference Learning (P5-Expected Sarsa & n-step Sarsa)](https://www.youtube.com/watch?v=0kKzQbWZOlk&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=33)
 - [L7: Temporal-Difference Learning (P6-Q-learning: introduction)](https://www.youtube.com/watch?v=4BvYR2hm730&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=34)
 - [L7: Temporal-Difference Learning (P7-Q-learning: pseudo code)](https://www.youtube.com/watch?v=I0YhlOIFF4s&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=35)
 - [L7: Temporal-Difference Learning (P8-Unified viewpoint and summary)](https://www.youtube.com/watch?v=3t74lvk1GBM&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=36)
