@@ -1,8 +1,8 @@
-# (Aug 2024) 3000 Stars and more code
+# (Oct 2024) Book cover
 
-The book has received 3000+ stars, which is a great achievement to me. Thanks to everyone. Hope it really helped you.
+The design of the book cover is finished. The book will be officially published by Springer early next year. It has been published by Tsinghua University Press.
 
-I also received more code implementation from enthusiastic readers. For example, this [GitHub page](https://github.com/SupermanCaozh/The_Coding_Foundation_in_Reinforcement_Learning) provided Python implementation of almost all examples in my book. On the one hand, I am very glad to see that. On the other hand, I am a little worried that my students in my offline class may use the code to do their homework:-). Overall, I am happy because it indicates that the book and open course are really helpful to the readers; Otherwise, they would not bother to develop the code by themselves:-)
+![Book cover](./springerBookCover.png)
 
 # (Jul 2024) English lecture videos!
 
@@ -164,6 +164,12 @@ There are also many others notes made by many other readers on the Internet. You
 **(Sep 2024) Minor update before printing by Springer**
 
 I revised some very minor places that readers may hardly notice. It is supposed to be the final version before printing by Springer. 
+
+# (Aug 2024) 3000 Stars and more code
+
+The book has received 3000+ stars, which is a great achievement to me. Thanks to everyone. Hope it really helped you.
+
+I also received more code implementation from enthusiastic readers. For example, this [GitHub page](https://github.com/SupermanCaozh/The_Coding_Foundation_in_Reinforcement_Learning) provided Python implementation of almost all examples in my book. On the one hand, I am very glad to see that. On the other hand, I am a little worried that my students in my offline class may use the code to do their homework:-). Overall, I am happy because it indicates that the book and open course are really helpful to the readers; Otherwise, they would not bother to develop the code by themselves:-)
 
 **(Jun 2024) Minor update before printing**
 
