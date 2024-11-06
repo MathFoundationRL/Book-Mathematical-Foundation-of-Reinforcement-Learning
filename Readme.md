@@ -26,17 +26,17 @@ The design of the book cover is finished. The book will be officially published 
 - [L4: Value Iteration and Policy Iteration (P2-Policy iteration)](https://www.youtube.com/watch?v=Pka6Om0nYQ8&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=14)
 - [L4: Value Iteration and Policy Iteration (P3-Truncated policy iteration)](https://www.youtube.com/watch?v=tUjPFPD3Vc8&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=15)
 - [L5: Monte Carlo Learning (P1-Motivating examples)](https://www.youtube.com/watch?v=DO1yXinAV_Q&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=16)
-- [L5: Monte Carlo Learning (P2-MC Basic-introduction)](https://www.youtube.com/watch?v=pK3B385_pQg&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=17)
+- [L5: Monte Carlo Learning (P2-MC Basic-introduction)](https://www.youtube.com/watch?v=6ShisunU0zs&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=17)
 - [L5: Monte Carlo Learning (P3-MC Basic-examples)](https://www.youtube.com/watch?v=axA0yns9FxU&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=18)
-- [L5: Monte Carlo Learning (P4-MC Exploring Starts)](https://www.youtube.com/watch?v=jbqqrf13r7E&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=19)
+- [L5: Monte Carlo Learning (P4-MC Exploring Starts)](https://www.youtube.com/watch?v=Qt8OMHPkLqg&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=19)
 - [L5: Monte Carlo Learning (P5-MC Epsilon-Greedy-introduction)](https://www.youtube.com/watch?v=dM3fYE630pY&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=20)
-- [L5: Monte Carlo Learning (P6-MC Epsilon-Greedy-examples)](https://www.youtube.com/watch?v=XFh4AAFDDAA&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=21)
+- [L5: Monte Carlo Learning (P6-MC Epsilon-Greedy-examples)](https://www.youtube.com/watch?v=x6X_5ePT9gQ&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=21)
 - [L6: Stochastic Approximation and SGD (P1-Motivating example)](https://www.youtube.com/watch?v=1bMgejvWoAo&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=22)
-- [L6: Stochastic Approximation and SGD (P2-RM algorithm: introduction)](https://www.youtube.com/watch?v=O9jUsaYAHmg&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=23)
-- [L6: Stochastic Approximation and SGD (P3-RM algorithm: convergence)](https://www.youtube.com/watch?v=JL5_ZZBwTwg&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=24)
-- [L6: Stochastic Approximation and SGD (P4-SGD algorithm: introduction)](https://www.youtube.com/watch?v=163N4eh-N3w&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=25)
+- [L6: Stochastic Approximation and SGD (P2-RM algorithm: introduction)](https://www.youtube.com/watch?v=1FTGcNUUnCE&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=23)
+- [L6: Stochastic Approximation and SGD (P3-RM algorithm: convergence)](https://www.youtube.com/watch?v=juNDoAFEre4&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=24)
+- [L6: Stochastic Approximation and SGD (P4-SGD algorithm: introduction)](https://www.youtube.com/watch?v=EZO7Iadp5m4&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=25)
 - [L6: Stochastic Approximation and SGD (P5-SGD algorithm: examples)](https://www.youtube.com/watch?v=BsxU_4qvvNA&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=26)
-- [L6: Stochastic Approximation and SGD (P6-SGD algorithm: properties)](https://www.youtube.com/watch?v=tPdVXQ_VOWc&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=27)
+- [L6: Stochastic Approximation and SGD (P6-SGD algorithm: properties)](https://www.youtube.com/watch?v=fWxX9YuEHjE&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=27)
 - [L6: Stochastic Approximation and SGD (P7-SGD algorithm: comparison)](https://www.youtube.com/watch?v=yNEV2cLKuzU&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=28)
 - [L7: Temporal-Difference Learning (P1-Motivating example)](https://www.youtube.com/watch?v=u1X-7XX3dtI&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=29)
 - [L7: Temporal-Difference Learning (P2-TD algorithm: introduction)](https://www.youtube.com/watch?v=XiCUsc7CCE0&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=30)
@@ -165,7 +165,7 @@ There are also many others notes made by many other readers on the Internet. You
 
 I revised some very minor places that readers may hardly notice. It is supposed to be the final version before printing by Springer. 
 
-# (Aug 2024) 3000 Stars and more code
+**(Aug 2024) 3000 Stars and more code**
 
 The book has received 3000+ stars, which is a great achievement to me. Thanks to everyone. Hope it really helped you.
 
