@@ -1,10 +1,4 @@
-# (Oct 2024) Book cover
-
-The design of the book cover is finished. The book will be officially published by Springer early next year. It has been published by Tsinghua University Press.
-
-![Book cover](./springerBookCover.png)
-
-# (Jul 2024) English lecture videos!
+# (Nov 2024) English lecture videos
 
 [![](./Figure_EnglishLectureVideo.png)](https://www.youtube.com/watch?v=ZHMWHr9811U&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=1)
 
@@ -46,13 +40,20 @@ The design of the book cover is finished. The book will be officially published 
 - [L7: Temporal-Difference Learning (P6-Q-learning: introduction)](https://www.youtube.com/watch?v=4BvYR2hm730&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=34)
 - [L7: Temporal-Difference Learning (P7-Q-learning: pseudo code)](https://www.youtube.com/watch?v=I0YhlOIFF4s&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=35)
 - [L7: Temporal-Difference Learning (P8-Unified viewpoint and summary)](https://www.youtube.com/watch?v=3t74lvk1GBM&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=36)
+- [L8: Value Function Approximation (P1-Motivating example–curve fitting)](https://www.youtube.com/watch?v=uJXcI8fcdWc&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=37)
+- [L8: Value Function Approximation (P2-Objective function)](https://www.youtube.com/watch?v=Z3HI1TfpJP0&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=38)
+- [L8: Value Function Approximation (P3-Optimization algorithm)](https://www.youtube.com/watch?v=piBDwrKt0uU&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=39)
+- [L8: Value Function Approximation (P4-illustrative examples and analysis)](https://www.youtube.com/watch?v=VFyBNEZxMMs&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=40)
+- [L8: Value Function Approximation (P5-Sarsa and Q-learning)](https://www.youtube.com/watch?v=C-HtY4-W_zw&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=41)
+- [L8: Value Function Approximation (P6-DQN–basic idea)](https://www.youtube.com/watch?v=lZCcbZbqVSQ&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=42)
+- [L8: Value Function Approximation (P7-DQN–experience replay)](https://www.youtube.com/watch?v=rynEdAdebi0&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=43)
+- [L8: Value Function Approximation (P8-DQN–implementation and example)](https://www.youtube.com/watch?v=vQHuCHjd6hA&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=44)
 - More videos are on the way...
 
 There will be about 50 short lecture videos that last for about 11 hours long in total. The rest of the videos will be uploaded within the next few months. Please stay tuned!
 
 You are warmly welcome to check out the English videos to see if they are helpful!
 
-***
 ***
 ***
 
@@ -69,6 +70,8 @@ This book aims to provide a **mathematical but friendly** introduction to the fu
 - When introducing an algorithm, the book aims to separate its core idea from complications that may be distracting. In this way, readers can better grasp the core idea of an algorithm.
 
 - The contents of the book are coherently organized. Each chapter is built based on the preceding chapter and lays a necessary foundation for the subsequent one.
+
+![Book cover](./springerBookCover.png)
 
 # Contents
 
@@ -160,6 +163,11 @@ by a graduate student from UC Davis
 There are also many others notes made by many other readers on the Internet. You are welcome to recommend to me if you find a good one.
 
 # Update history 
+
+**(Oct 2024) Book cover**
+
+The design of the book cover is finished. The book will be officially published by Springer early next year. It has been published by Tsinghua University Press.
+
 
 **(Sep 2024) Minor update before printing by Springer**
 
