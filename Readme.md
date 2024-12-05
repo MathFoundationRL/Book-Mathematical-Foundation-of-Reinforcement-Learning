@@ -1,3 +1,6 @@
+# (Dec 2024) 4000+ stars
+This textbook has received 4000+ stars! Glad that it is helpful many reader.
+
 # (Nov 2024) English lecture videos
 
 [![](./Figure_EnglishLectureVideo.png)](https://www.youtube.com/watch?v=ZHMWHr9811U&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=1)
