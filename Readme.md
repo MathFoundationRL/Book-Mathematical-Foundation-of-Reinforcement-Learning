@@ -77,7 +77,7 @@ This book aims to provide a **mathematical but friendly** introduction to the fu
 
 - The contents of the book are coherently organized. Each chapter is built based on the preceding chapter and lays a necessary foundation for the subsequent one.
 
-![Book cover](./springerBookCover.png)
+[![Book cover](./springerBookCover.png)](https://link.springer.com/book/9789819739431)
 
 # Contents
 
