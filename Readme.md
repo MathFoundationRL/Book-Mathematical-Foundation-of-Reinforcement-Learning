@@ -1,7 +1,7 @@
-# (Dec 2024) 4000+ stars
-This textbook has received 4000+ stars! Glad that it is helpful to many readers.
+# (Dec 2024) 4,000+ stars
+This textbook has received 4,000+ stars! Glad that it is helpful to many readers.
 
-# (Nov 2024) English lecture videos
+# (Dec 2024) English lecture videos
 
 [![](./Figure_EnglishLectureVideo.png)](https://www.youtube.com/watch?v=ZHMWHr9811U&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=1)
 
@@ -51,9 +51,12 @@ This textbook has received 4000+ stars! Glad that it is helpful to many readers.
 - [L8: Value Function Approximation (P6-DQN–basic idea)](https://www.youtube.com/watch?v=lZCcbZbqVSQ&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=42)
 - [L8: Value Function Approximation (P7-DQN–experience replay)](https://www.youtube.com/watch?v=rynEdAdebi0&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=43)
 - [L8: Value Function Approximation (P8-DQN–implementation and example)](https://www.youtube.com/watch?v=vQHuCHjd6hA&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=44)
-- More videos are on the way...
-
-There will be about 50 short lecture videos that last for about 11 hours long in total. The rest of the videos will be uploaded within the next few months. Please stay tuned!
+- [L9: Policy Gradient Methods (P1-Basic idea)](https://www.youtube.com/watch?v=mtFHOj83QSo&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=45)
+- [L9: Policy Gradient Methods (P2-Metric 1–Average value)](https://www.youtube.com/watch?v=la8jQc3hX1M&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=46)
+- [L9: Policy Gradient Methods (P3-Metric 2–Average reward) —Mathematical Foundations of RL](https://www.youtube.com/watch?v=8RZ_rQFe69E&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=47)
+- [L9: Policy Gradient Methods (P4-Gradients of the metrics) —Mathematical Foundations of RL](https://www.youtube.com/watch?v=MvmtPXur3Ls&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=48)
+- [L9: Policy Gradient Methods (P5-Gradient-based algorithms&REINFORCE) —Mathematical Foundations of RL](https://www.youtube.com/watch?v=1DQnnUC8ng8&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=49)
+- The lecture videos of the last chapter (Chapter 10) will be uploaded shortly. Please stay tuned!
 
 You are warmly welcome to check out the English videos to see if they are helpful!
 
@@ -96,9 +99,9 @@ This book, however, requires the reader to have some knowledge of probability th
 By combining the book with my lecture videos, I believe you can study better. 
 
 - **Chinese lecture videos:** You can check the Bilibili channel https://space.bilibili.com/2044042934 or the Youtube channel https://www.youtube.com/channel/UCztGtS5YYiNv8x3pj9hLVgg/playlists
-The lecture videos have received **800,000+ views** up to May 2024 over the Internet and received very good feedback!
+The lecture videos have received **1,000,000+ views** up to May 2024 over the Internet and received very good feedback!
 
-- **English lecture videos:** I have been working on the English lecture videos. Hopefully we can finish in 2024. Please stay tuned.
+- **English lecture videos:** The English lecture videos have been uploaded to YouTube. Please see the links and details in another part of this document.
 
 # About the author
 You can find my info on my homepage https://www.shiyuzhao.net/ (GoogleSite) and my research group website https://shiyuzhao.westlake.edu.cn
