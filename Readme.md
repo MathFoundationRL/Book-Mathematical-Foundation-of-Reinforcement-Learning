@@ -53,9 +53,9 @@ This textbook has received 4,000+ stars! Glad that it is helpful to many readers
 - [L8: Value Function Approximation (P8-DQN–implementation and example)](https://www.youtube.com/watch?v=vQHuCHjd6hA&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=44)
 - [L9: Policy Gradient Methods (P1-Basic idea)](https://www.youtube.com/watch?v=mtFHOj83QSo&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=45)
 - [L9: Policy Gradient Methods (P2-Metric 1–Average value)](https://www.youtube.com/watch?v=la8jQc3hX1M&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=46)
-- [L9: Policy Gradient Methods (P3-Metric 2–Average reward) —Mathematical Foundations of RL](https://www.youtube.com/watch?v=8RZ_rQFe69E&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=47)
-- [L9: Policy Gradient Methods (P4-Gradients of the metrics) —Mathematical Foundations of RL](https://www.youtube.com/watch?v=MvmtPXur3Ls&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=48)
-- [L9: Policy Gradient Methods (P5-Gradient-based algorithms&REINFORCE) —Mathematical Foundations of RL](https://www.youtube.com/watch?v=1DQnnUC8ng8&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=49)
+- [L9: Policy Gradient Methods (P3-Metric 2–Average reward)](https://www.youtube.com/watch?v=8RZ_rQFe69E&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=47)
+- [L9: Policy Gradient Methods (P4-Gradients of the metrics)](https://www.youtube.com/watch?v=MvmtPXur3Ls&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=48)
+- [L9: Policy Gradient Methods (P5-Gradient-based algorithms & REINFORCE)](https://www.youtube.com/watch?v=1DQnnUC8ng8&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=49)
 - The lecture videos of the last chapter (Chapter 10) will be uploaded shortly. Please stay tuned!
 
 You are warmly welcome to check out the English videos to see if they are helpful!
