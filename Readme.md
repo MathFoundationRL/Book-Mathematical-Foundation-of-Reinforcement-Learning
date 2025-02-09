@@ -147,7 +147,7 @@ Many enthusiastic readers sent me the source code or notes that they developed w
 - https://github.com/purundong/test_rl
 
 
-**Study**
+**Study notes**
 
 *English:*
 
