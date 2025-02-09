@@ -170,7 +170,9 @@ by a graduate student from UC Davis
 
 There are also many others notes made by many other readers on the Internet. I am not able to put them all here. You are welcome to recommend to me if you find a good one.
 
-**Videos made based on my course**
+**Bilibili videos made based on my course**
+
+- https://www.bilibili.com/video/BV1fW421w7NH
 
 - https://www.bilibili.com/video/BV1Ne411m7GX
   
