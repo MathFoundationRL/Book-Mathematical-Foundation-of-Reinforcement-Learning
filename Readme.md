@@ -168,6 +168,8 @@ by a graduate student from UC Davis
 
 - https://blog.csdn.net/v20000727/article/details/136870879?spm=1001.2014.3001.5502
 
+- https://blog.csdn.net/m0_64952374/category_12883361.html
+
 There are also many others notes made by many other readers on the Internet. I am not able to put them all here. You are welcome to recommend to me if you find a good one.
 
 **Bilibili videos made based on my course**
