@@ -3,7 +3,7 @@ This textbook has received 4,000+ stars! Glad that it is helpful to many readers
 
 # (Dec 2024) English lecture videos
 
-[![](./Figure_EnglishLectureVideo.png)](https://www.youtube.com/watch?v=ZHMWHr9811U&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=1)
+[![](./Figure_EnglishLectureVideo.png)](https://youtube.com/playlist?list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&si=B6mRR7vxBAjRAm_F)
 
 **My English open course is online now.** You can click the above figure or the [link here](https://youtube.com/playlist?list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&si=D1T4pcyHsMxj6CzB) to jump to our YouTube channel. You can also click the following links to be directed to specific lecture videos.
 
@@ -98,8 +98,8 @@ This book, however, requires the reader to have some knowledge of probability th
 
 By combining the book with my lecture videos, I believe you can study better. 
 
-- **Chinese lecture videos:** You can check the Bilibili channel https://space.bilibili.com/2044042934 or the Youtube channel https://www.youtube.com/channel/UCztGtS5YYiNv8x3pj9hLVgg/playlists
-The lecture videos have received **1,000,000+ views** up to May 2024 over the Internet and received very good feedback!
+- **Chinese lecture videos:** You can check the [Bilibili channel](https://space.bilibili.com/2044042934) or the [Youtube channel](https://www.youtube.com/channel/UCztGtS5YYiNv8x3pj9hLVgg/playlists).
+The lecture videos have received **1,300,000+ views** up to Feb 2025 over the Internet and received very good feedback!
 
 - **English lecture videos:** The English lecture videos have been uploaded to YouTube. Please see the links and details in another part of this document.
 
@@ -123,11 +123,13 @@ I sincerely hope this book can help readers smoothly enter the exciting field of
 
 # Third-party code and materials
 
-Many enthusiastic readers sent me the source code or notes that they developed when they studied this book. I am happy to share the links here and hope they may be helpful to other readers. I must emphasize that I have not verified the code. If you have any questions, you can directly contact the developers. 
+Many enthusiastic readers sent me the source code or notes that they developed when they studied this book. If you create any materials based on course, you are welcome to write an email. I am happy to share the links here and hope they may be helpful to other readers. I must emphasize that I have not verified the code. If you have any questions, you can directly contact the developers. 
 
 **Code**
 
 *Python:*
+
+- https://github.com/10-OASIS-01/minrl (Feb 2025)
 
 - https://github.com/SupermanCaozh/The_Coding_Foundation_in_Reinforcement_Learning  (by Zehong Cao, Aug 2024)
 
@@ -145,7 +147,7 @@ Many enthusiastic readers sent me the source code or notes that they developed w
 - https://github.com/purundong/test_rl
 
 
-**Study notes**
+**Study**
 
 *English:*
 
@@ -166,7 +168,17 @@ by a graduate student from UC Davis
 
 - https://blog.csdn.net/v20000727/article/details/136870879?spm=1001.2014.3001.5502
 
-There are also many others notes made by many other readers on the Internet. You are welcome to recommend to me if you find a good one.
+There are also many others notes made by many other readers on the Internet. I am not able to put them all here. You are welcome to recommend to me if you find a good one.
+
+**Videos made based on my course**
+
+- https://www.bilibili.com/video/BV1Ne411m7GX
+  
+- https://www.bilibili.com/video/BV1HX4y1H7uR
+  
+- https://www.bilibili.com/video/BV1TgzsYDEnP
+  
+- https://www.bilibili.com/video/BV1CQ4y1J7zu
 
 # Update history 
 
