@@ -1,5 +1,5 @@
-# (Mar 2025) 6,000+ stars!
-This textbook has received 6,000+ stars! Glad that it is helpful to many readers.
+# (Mar 2025) 7,000+ stars!
+This textbook has received 7,000+ stars! Glad that it is helpful to many readers.
 
 # (Dec 2024) English lecture videos
 
