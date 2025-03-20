@@ -1,11 +1,11 @@
 # (Mar 2025) 7,000+ stars!
 This textbook has received 7,000+ stars! Glad that it is helpful to many readers.
 
-# (Dec 2024) English lecture videos
+# (Mar 2025) English lecture videos completed!
 
 [![](./Figure_EnglishLectureVideo.png)](https://youtube.com/playlist?list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&si=B6mRR7vxBAjRAm_F)
 
-**My English open course is online now.** You can click the above figure or the [link here](https://youtube.com/playlist?list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&si=D1T4pcyHsMxj6CzB) to jump to our YouTube channel. You can also click the following links to be directed to specific lecture videos.
+**My English open course is online now.** You can click the above figure or the [link here](https://youtube.com/playlist?list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&si=D1T4pcyHsMxj6CzB) to jump to our YouTube channel. You can also click the following links to be directed to specific lecture videos. You are warmly welcome to check out the English videos to help your learning.
 
 - [Overview of Reinforcement Learning in 30 Minutes](https://www.youtube.com/watch?v=ZHMWHr9811U&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=1)
 - [L1: Basic Concepts (P1-State, action, policy, ...)](https://www.youtube.com/watch?v=zJHtM5dN69g&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=2)
@@ -56,9 +56,11 @@ This textbook has received 7,000+ stars! Glad that it is helpful to many readers
 - [L9: Policy Gradient Methods (P3-Metric 2–Average reward)](https://www.youtube.com/watch?v=8RZ_rQFe69E&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=47)
 - [L9: Policy Gradient Methods (P4-Gradients of the metrics)](https://www.youtube.com/watch?v=MvmtPXur3Ls&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=48)
 - [L9: Policy Gradient Methods (P5-Gradient-based algorithms & REINFORCE)](https://www.youtube.com/watch?v=1DQnnUC8ng8&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=49)
-- The lecture videos of the last chapter (Chapter 10) will be uploaded shortly. Please stay tuned!
-
-You are warmly welcome to check out the English videos to see if they are helpful!
+- [L10: Actor-Critic Methods (P1-The simplest Actor-Critic)](https://www.youtube.com/watch?v=kjCZAT5Wh80&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=50)
+- [L10: Actor-Critic Methods (P2-Advantage Actor-Critic)](https://www.youtube.com/watch?v=vZVXJJcZNEM&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=51)
+- [L10: Actor-Critic Methods (P3-Importance sampling & off-policy Actor-Critic)](https://www.youtube.com/watch?v=TfO5mnsiGKc&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=52)
+- [L10: Actor-Critic Methods (P4-Deterministic Actor-Critic)](https://www.youtube.com/watch?v=DHoRmwxs1HU&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=53)
+- [L10: Actor-Critic Methods (P5-Summary and goodbye!)](https://www.youtube.com/watch?v=npvnnKcXoBs&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=54)
 
 ***
 ***
