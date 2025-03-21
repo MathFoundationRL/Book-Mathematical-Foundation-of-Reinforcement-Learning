@@ -59,7 +59,7 @@ This textbook has received 7,000+ stars! Glad that it is helpful to many readers
 - [L10: Actor-Critic Methods (P1-The simplest Actor-Critic)](https://www.youtube.com/watch?v=kjCZAT5Wh80&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=50)
 - [L10: Actor-Critic Methods (P2-Advantage Actor-Critic)](https://www.youtube.com/watch?v=vZVXJJcZNEM&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=51)
 - [L10: Actor-Critic Methods (P3-Importance sampling & off-policy Actor-Critic)](https://www.youtube.com/watch?v=TfO5mnsiGKc&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=52)
-- [L10: Actor-Critic Methods (P4-Deterministic Actor-Critic)](https://www.youtube.com/watch?v=DHoRmwxs1HU&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=53)
+- [L10: Actor-Critic Methods (P4-Deterministic Actor-Critic)](https://www.youtube.com/watch?v=dTjz1RNtic4&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=53)
 - [L10: Actor-Critic Methods (P5-Summary and goodbye!)](https://www.youtube.com/watch?v=npvnnKcXoBs&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=54)
 
 ***
