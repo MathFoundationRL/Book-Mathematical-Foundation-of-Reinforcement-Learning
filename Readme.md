@@ -80,6 +80,7 @@ This book aims to provide a **mathematical but friendly** introduction to the fu
 - The contents of the book are coherently organized. Each chapter is built based on the preceding chapter and lays a necessary foundation for the subsequent one.
 
 [![Book cover](./springerBookCover.png)](https://link.springer.com/book/9789819739431)
+![Book cover](./Figure_ChineseBookCover.png)
 
 # Contents
 
@@ -87,6 +88,15 @@ The topics addressed in the book are shown in the figure below. This book contai
 
 ![The map of this book](./Figure_chapterMap.png)
 
+
+# Lecture videos 
+
+By combining the book with my lecture videos, I believe you can study better. 
+
+- **Chinese lecture videos:** You can check the [Bilibili channel](https://space.bilibili.com/2044042934) or the [Youtube channel](https://www.youtube.com/channel/UCztGtS5YYiNv8x3pj9hLVgg/playlists).
+- **English lecture videos:** The English lecture videos have been uploaded to YouTube. Please see the links and details in another part of this document.
+
+The lecture videos have received **1,500,000+ views** over the Internet and received very good feedback!
 
 # Readership
 
@@ -96,17 +106,8 @@ It does not require readers to have any background in reinforcement learning bec
 
 This book, however, requires the reader to have some knowledge of probability theory and linear algebra. Some basics of the required mathematics are also included in the appendix of this book.
 
-# Lecture videos 
-
-By combining the book with my lecture videos, I believe you can study better. 
-
-- **Chinese lecture videos:** You can check the [Bilibili channel](https://space.bilibili.com/2044042934) or the [Youtube channel](https://www.youtube.com/channel/UCztGtS5YYiNv8x3pj9hLVgg/playlists).
-The lecture videos have received **1,300,000+ views** up to Feb 2025 over the Internet and received very good feedback!
-
-- **English lecture videos:** The English lecture videos have been uploaded to YouTube. Please see the links and details in another part of this document.
-
 # About the author
-You can find my info on my homepage https://www.shiyuzhao.net/ (GoogleSite) and my research group website https://shiyuzhao.westlake.edu.cn
+You can find my info on my homepage https://www.shiyuzhao.net (GoogleSite) and my research group website https://shiyuzhao.westlake.edu.cn
 
 I have been teaching a graduate-level course on reinforcement learning since 2019. Along with teaching, I have been preparing this book as the lecture notes for my students. 
 
