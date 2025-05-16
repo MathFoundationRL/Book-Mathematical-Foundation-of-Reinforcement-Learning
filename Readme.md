@@ -189,7 +189,8 @@ There are also many others notes made by many other readers on the Internet. I a
 - https://www.bilibili.com/video/BV1CQ4y1J7zu
 
 # Update history 
-# (Apr 2025) 8,000+ stars!
+
+**(Apr 2025) 8,000+ stars!**
 This textbook has received 8,000+ stars! Glad that it is helpful to many readers.
 
 **(Mar 2025) 7,000+ stars!**
