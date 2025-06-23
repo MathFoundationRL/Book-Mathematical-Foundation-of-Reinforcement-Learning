@@ -1,5 +1,5 @@
-# (May 2025) 9,000+ stars!
-This textbook has received 9,000+ stars! Glad that it is helpful to many readers.
+# (Jun 2025) 10,000+ stars!
+This textbook has received 10,000+ stars! Glad that it is helpful to many readers.
 
 # (Mar 2025) English lecture videos completed!
 
@@ -96,7 +96,7 @@ By combining the book with my lecture videos, I believe you can study better.
 - **Chinese lecture videos:** You can check the [Bilibili channel](https://space.bilibili.com/2044042934) or the [Youtube channel](https://www.youtube.com/channel/UCztGtS5YYiNv8x3pj9hLVgg/playlists).
 - **English lecture videos:** The English lecture videos have been uploaded to YouTube. Please see the links and details in another part of this document.
 
-The lecture videos have received **1,500,000+ views** over the Internet and received very good feedback!
+The lecture videos have received **1,600,000+ views** over the Internet and received very good feedback!
 
 # Readership
 
@@ -120,7 +120,7 @@ I sincerely hope this book can help readers smoothly enter the exciting field of
   title={Mathematical Foundations of Reinforcement Learning},
   author={S. Zhao},
   year={2025},
-  publisher={Springer Nature Press and Tsinghua University Press}
+  publisher={Springer Nature Press}
 }
 ```
 
@@ -190,17 +190,9 @@ There are also many others notes made by many other readers on the Internet. I a
 
 # Update history 
 
-**(Apr 2025) 8,000+ stars!**
-This textbook has received 8,000+ stars! Glad that it is helpful to many readers.
+**(Jun 2025) 10,000+ stars!**
 
-**(Mar 2025) 7,000+ stars!**
-This textbook has received 7,000+ stars! Glad that it is helpful to many readers.
-
-**(Feb 2025) 5,000+ stars**
-This textbook has received 5,000+ stars! Glad that it is helpful to many readers.
-
-**(Dec 2024) 4,000+ stars**
-This textbook has received 4,000+ stars! Glad that it is helpful to many readers.
+(Dec 2024) 4,000+ stars -> (Feb 2025) 5,000+ stars -> (Mar 2025) 7,000+ stars! -> (Apr 2025) 8,000+ stars! -> (May 2025) 9,000+ stars!
 
 **(Oct 2024) Book cover**
 
