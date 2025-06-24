@@ -62,6 +62,10 @@ This textbook has received 10,000+ stars! Glad that it is helpful to many reader
 - [L10: Actor-Critic Methods (P4-Deterministic Actor-Critic)](https://www.youtube.com/watch?v=dTjz1RNtic4&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=53)
 - [L10: Actor-Critic Methods (P5-Summary and goodbye!)](https://www.youtube.com/watch?v=npvnnKcXoBs&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=54)
 
+**Some comments from YouTube and Amazon**
+![](./review1.jpg)
+![](./review2.jpg)
+
 ***
 ***
 
