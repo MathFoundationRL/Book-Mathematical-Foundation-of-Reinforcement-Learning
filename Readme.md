@@ -10,7 +10,7 @@ This textbook has received 10,000+ stars! Glad that it is helpful to many reader
 
 # (Mar 2025) English lecture videos completed!
 
-[![](./Figure_EnglishLectureVideo.png)](https://youtube.com/playlist?list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&si=B6mRR7vxBAjRAm_F)
+[![](./Readme_Images/EnglishLectureVideo.png)](https://youtube.com/playlist?list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&si=B6mRR7vxBAjRAm_F)
 
 **My English open course is online now.** You can click the above figure or the [link here](https://youtube.com/playlist?list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&si=D1T4pcyHsMxj6CzB) to jump to our YouTube channel. You can also click the following links to be directed to specific lecture videos. You are warmly welcome to check out the English videos to help your learning.
 
@@ -71,8 +71,8 @@ This textbook has received 10,000+ stars! Glad that it is helpful to many reader
 
 **Some comments from YouTube and Amazon:**
 
-[![](./review1.jpg)](https://youtube.com/playlist?list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&si=B6mRR7vxBAjRAm_F)
-[![](./review2.jpg)](https://youtube.com/playlist?list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&si=B6mRR7vxBAjRAm_F)
+[![](./Readme_Images/review1.jpg)](https://youtube.com/playlist?list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&si=B6mRR7vxBAjRAm_F)
+[![](./Readme_Images/review2.jpg)](https://youtube.com/playlist?list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&si=B6mRR7vxBAjRAm_F)
 
 ***
 ***
@@ -92,14 +92,14 @@ This book aims to provide a **mathematical but friendly** introduction to the fu
 
 - The contents of the book are coherently organized. Each chapter is built based on the preceding chapter and lays a necessary foundation for the subsequent one.
 
-[![Book cover](./Readme_Images/springerBookCover.png)](https://link.springer.com/book/9789819739431)
-![Book cover](./Figure_ChineseBookCover.png)
+[![Book cover](./Readme_Images/BookCoverSpringer.png)](https://link.springer.com/book/9789819739431)
+![Book cover](./Readme_Images/BookCoverChinese.png)
 
 # Contents
 
 The topics addressed in the book are shown in the figure below. This book contains ten chapters, which can be classified into two parts: the first part is about basic tools, and the second part is about algorithms. The ten chapters are highly correlated. In general, it is necessary to study the earlier chapters first before the later ones.
 
-![The map of this book](./Figure_chapterMap.png)
+![The map of this book](./Readme_Images/BookMap.png)
 
 
 # Lecture videos 
