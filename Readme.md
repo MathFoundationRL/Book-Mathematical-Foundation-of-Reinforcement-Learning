@@ -1,3 +1,10 @@
+# (July 2025) Book Update: Typo Corrections
+
+It has been nearly a year since the book's last update. During this period, keen-eyed readers have identified additional (about 10) typos and brought them to my attention. I really appreciate it. To prevent confusion for future readers, I have corrected these typos and updated the PDF files on GitHub. For the printed Springer edition, I prepared an errata list. Should you read a printed copy, you may consult this list as needed.
+
+Finally, I wish to express heartfelt appreciation for our readers' invaluable contributions. Since its release, this book has received tremendous attention and feedback, enabling swift refinements. While I believe most typos have now been addressed, please don't hesitate to reach out if you spot anything that needs correction.
+
+
 # (Jun 2025) 10,000+ stars!
 This textbook has received 10,000+ stars! Glad that it is helpful to many readers.
 
