@@ -137,6 +137,8 @@ Many enthusiastic readers sent me the source code or notes that they developed w
 **Code**
 
 *Python:*
+- https://github.com/Ronchy2000/Multi-agent-RL/tree/master/RL_Learning-main (Oct 2025, by Rongqi Lu)
+
 - https://github.com/zhoubay/Code-for-Mathematical-Foundations-of-Reinforcement-Learning (Mar 2025, by Xibin ZHOU)
 
 - https://github.com/10-OASIS-01/minrl (Feb 2025)
