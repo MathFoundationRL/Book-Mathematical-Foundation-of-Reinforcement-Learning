@@ -1,11 +1,69 @@
-# (Jun 2025) 10,000+ stars!
-This textbook has received 10,000+ stars! Glad that it is helpful to many readers.
+# (Oct 2025) About the Latex source code of my slides
 
-# (Mar 2025) English lecture videos completed!
+If you are preparing a course and would like to use any content from my slides, feel free to reach out by email. I’m more than happy to share the source code with you. The slides were created using Latex/Beamer.
+
+Regarding reader feedback and questions in the discussion section, please note that due to a high volume of commitments, there may be significant delays in my response. Your understanding would be greatly appreciated.
+
+***
+***
+
+# Why a new book on reinforcement learning?
+
+This book aims to provide a **mathematical but friendly** introduction to the fundamental concepts, basic problems, and classic algorithms in reinforcement learning. Some essential features of this book are highlighted as follows.
+
+- The book introduces reinforcement learning from a mathematical point of view. Hopefully, readers will not only know the procedure of an algorithm but also understand why it was designed in the first place and why it works effectively.
+
+- The depth of the mathematics is carefully controlled to an adequate level. The mathematics is also presented in a carefully designed manner to ensure that the book is friendly to read. Readers can selectively read the materials presented in gray boxes according to their interests.
+
+- Many illustrative examples are given to help readers better understand the topics. All the examples in this book are based on a grid world task, which is easy to understand and helpful for illustrating concepts and algorithms.
+
+- When introducing an algorithm, the book aims to separate its core idea from complications that may be distracting. In this way, readers can better grasp the core idea of an algorithm.
+
+- The contents of the book are coherently organized. Each chapter is built based on the preceding chapter and lays a necessary foundation for the subsequent one.
+
+[![Book cover](./Readme_Images/BookCoverSpringer.png)](https://link.springer.com/book/9789819739431)
+
+# Contents
+
+The topics addressed in the book are shown in the figure below. This book contains ten chapters, which can be classified into two parts: the first part is about basic tools, and the second part is about algorithms. The ten chapters are highly correlated. In general, it is necessary to study the earlier chapters first before the later ones.
+
+![The map of this book](./Readme_Images/BookMap.png)
+
+
+# Readership
+
+This book is designed for senior undergraduate students, graduate students, researchers, and practitioners interested in reinforcement learning.
+
+It does not require readers to have any background in reinforcement learning because it starts by introducing the most basic concepts. If the reader already has some background in reinforcement learning, I believe the book can help them understand some topics more deeply or provide different perspectives.
+
+This book, however, requires the reader to have some knowledge of probability theory and linear algebra. Some basics of the required mathematics are also included in the appendix of this book.
+
+# About the author
+You can find my info on my homepage https://www.shiyuzhao.net (GoogleSite) and my research group website https://shiyuzhao.westlake.edu.cn
+
+I have been teaching a graduate-level course on reinforcement learning since 2019. Along with teaching, I have been preparing this book as the lecture notes for my students. 
+
+I sincerely hope this book can help readers smoothly enter the exciting field of reinforcement learning.
+
+# Citation
+
+```
+@book{zhao2025RLBook,
+  title={Mathematical Foundations of Reinforcement Learning},
+  author={S. Zhao},
+  year={2025},
+  publisher={Springer Nature Press}
+}
+```
+# Lecture videos 
+
+The lecture videos have received **2,100,000+ views** over the Internet and received very good feedback!
+By combining the book with my lecture videos, I believe you can study better. 
+
+- **Chinese lecture videos:** You can check the [Bilibili channel](https://space.bilibili.com/2044042934) or the [Youtube channel](https://www.youtube.com/channel/UCztGtS5YYiNv8x3pj9hLVgg/playlists).
+- **English lecture videos:** The English lecture videos have been uploaded to YouTube: [link here](https://youtube.com/playlist?list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&si=D1T4pcyHsMxj6CzB)
 
 [![](./Readme_Images/EnglishLectureVideo.png)](https://youtube.com/playlist?list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&si=B6mRR7vxBAjRAm_F)
-
-**My English open course is online now.** You can click the above figure or the [link here](https://youtube.com/playlist?list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&si=D1T4pcyHsMxj6CzB) to jump to our YouTube channel. You can also click the following links to be directed to specific lecture videos. You are warmly welcome to check out the English videos to help your learning.
 
 - [Overview of Reinforcement Learning in 30 Minutes](https://www.youtube.com/watch?v=ZHMWHr9811U&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=1)
 - [L1: Basic Concepts (P1-State, action, policy, ...)](https://www.youtube.com/watch?v=zJHtM5dN69g&list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&index=2)
@@ -67,68 +125,6 @@ This textbook has received 10,000+ stars! Glad that it is helpful to many reader
 [![](./Readme_Images/review1.jpg)](https://youtube.com/playlist?list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&si=B6mRR7vxBAjRAm_F)
 [![](./Readme_Images/review2.jpg)](https://youtube.com/playlist?list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&si=B6mRR7vxBAjRAm_F)
 
-***
-***
-***
-
-# Why a new book on reinforcement learning?
-
-This book aims to provide a **mathematical but friendly** introduction to the fundamental concepts, basic problems, and classic algorithms in reinforcement learning. Some essential features of this book are highlighted as follows.
-
-- The book introduces reinforcement learning from a mathematical point of view. Hopefully, readers will not only know the procedure of an algorithm but also understand why it was designed in the first place and why it works effectively.
-
-- The depth of the mathematics is carefully controlled to an adequate level. The mathematics is also presented in a carefully designed manner to ensure that the book is friendly to read. Readers can selectively read the materials presented in gray boxes according to their interests.
-
-- Many illustrative examples are given to help readers better understand the topics. All the examples in this book are based on a grid world task, which is easy to understand and helpful for illustrating concepts and algorithms.
-
-- When introducing an algorithm, the book aims to separate its core idea from complications that may be distracting. In this way, readers can better grasp the core idea of an algorithm.
-
-- The contents of the book are coherently organized. Each chapter is built based on the preceding chapter and lays a necessary foundation for the subsequent one.
-
-[![Book cover](./Readme_Images/BookCoverSpringer.png)](https://link.springer.com/book/9789819739431)
-![Book cover](./Readme_Images/BookCoverChinese.png)
-
-# Contents
-
-The topics addressed in the book are shown in the figure below. This book contains ten chapters, which can be classified into two parts: the first part is about basic tools, and the second part is about algorithms. The ten chapters are highly correlated. In general, it is necessary to study the earlier chapters first before the later ones.
-
-![The map of this book](./Readme_Images/BookMap.png)
-
-
-# Lecture videos 
-
-By combining the book with my lecture videos, I believe you can study better. 
-
-- **Chinese lecture videos:** You can check the [Bilibili channel](https://space.bilibili.com/2044042934) or the [Youtube channel](https://www.youtube.com/channel/UCztGtS5YYiNv8x3pj9hLVgg/playlists).
-- **English lecture videos:** The English lecture videos have been uploaded to YouTube. Please see the links and details in another part of this document.
-
-The lecture videos have received **1,600,000+ views** over the Internet and received very good feedback!
-
-# Readership
-
-This book is designed for senior undergraduate students, graduate students, researchers, and practitioners interested in reinforcement learning.
-
-It does not require readers to have any background in reinforcement learning because it starts by introducing the most basic concepts. If the reader already has some background in reinforcement learning, I believe the book can help them understand some topics more deeply or provide different perspectives.
-
-This book, however, requires the reader to have some knowledge of probability theory and linear algebra. Some basics of the required mathematics are also included in the appendix of this book.
-
-# About the author
-You can find my info on my homepage https://www.shiyuzhao.net (GoogleSite) and my research group website https://shiyuzhao.westlake.edu.cn
-
-I have been teaching a graduate-level course on reinforcement learning since 2019. Along with teaching, I have been preparing this book as the lecture notes for my students. 
-
-I sincerely hope this book can help readers smoothly enter the exciting field of reinforcement learning.
-
-# Citation
-
-```
-@book{zhao2025RLBook,
-  title={Mathematical Foundations of Reinforcement Learning},
-  author={S. Zhao},
-  year={2025},
-  publisher={Springer Nature Press}
-}
-```
 
 # Third-party code and materials
 
