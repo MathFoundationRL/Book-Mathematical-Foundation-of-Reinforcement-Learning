@@ -41,7 +41,7 @@ class GridWorld():
     def reset(self):
         self.agent_state = self.start_state
         self.traj = [self.agent_state] 
-        return self.agent_state, {}
+        return self.agent_state
 
 
     def step(self, action):
@@ -81,7 +81,8 @@ class GridWorld():
             x, y = self.target_state
             reward = self.reward_target
         elif new_state in self.forbidden_states:  # stay
-            x, y = state
+            x, y = state # forbidden state cannot be entered
+            # x, y = new_state # forbidden state can be entered
             reward = self.reward_forbidden        
         else:
             x, y = new_state
