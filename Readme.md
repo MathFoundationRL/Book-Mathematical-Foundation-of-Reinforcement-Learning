@@ -41,7 +41,7 @@ This book, however, requires the reader to have some knowledge of probability th
 # About the author
 You can find my info on my homepage https://www.shiyuzhao.net (GoogleSite) and my research group website https://shiyuzhao.westlake.edu.cn
 
-I have been teaching a graduate-level course on reinforcement learning since 2019. Along with teaching, I have been preparing this book as the lecture notes for my students. 
+I have been teaching a graduate-level course on reinforcement learning since 2019. Along with teaching, I have been preparing this book as the lecture notes for my students.
 
 I sincerely hope this book can help readers smoothly enter the exciting field of reinforcement learning.
 
@@ -55,10 +55,10 @@ I sincerely hope this book can help readers smoothly enter the exciting field of
   publisher={Springer Press}
 }
 ```
-# Lecture videos 
+# Lecture videos
 
 The lecture videos have received **2,100,000+ views** over the Internet and received very good feedback!
-By combining the book with my lecture videos, I believe you can study better. 
+By combining the book with my lecture videos, I believe you can study better.
 
 - **Chinese lecture videos:** You can check the [Bilibili channel](https://space.bilibili.com/2044042934) or the [Youtube channel](https://www.youtube.com/channel/UCztGtS5YYiNv8x3pj9hLVgg/playlists).
 - **English lecture videos:** The English lecture videos have been uploaded to YouTube: [link here](https://youtube.com/playlist?list=PLEhdbSEZZbDaFWPX4gehhwB9vJZJ1DNm8&si=D1T4pcyHsMxj6CzB)
@@ -128,7 +128,7 @@ By combining the book with my lecture videos, I believe you can study better.
 
 # Third-party code and materials
 
-Many enthusiastic readers sent me the source code or notes that they developed when they studied this book. If you create any materials based on course, you are welcome to write an email. I am happy to share the links here and hope they may be helpful to other readers. I must emphasize that I have not verified the code. If you have any questions, you can directly contact the developers. 
+Many enthusiastic readers sent me the source code or notes that they developed when they studied this book. If you create any materials based on course, you are welcome to write an email. I am happy to share the links here and hope they may be helpful to other readers. I must emphasize that I have not verified the code. If you have any questions, you can directly contact the developers.
 
 **Code**
 
@@ -164,16 +164,16 @@ Many enthusiastic readers sent me the source code or notes that they developed w
 
 *English:*
 
-- https://lyk-love.cn/tags/reinforcement-learning/ 
+- https://lyk-love.cn/tags/reinforcement-learning/
 by a graduate student from UC Davis
 
-*Chinese:* 
+*Chinese:*
 
 - RL knowledge graph: https://hanfei-hz.github.io/assets/files/rl_explorer.html (by Fei Han, May 2026)
 
 - https://github.com/Peanut-Study/Reinforcement-Learning-Study-Note/tree/main (Jan 2026)
-  
-- https://zhuanlan.zhihu.com/p/692207843 
+
+- https://zhuanlan.zhihu.com/p/692207843
 
 - https://blog.csdn.net/qq_64671439/category_12540921.html
 
@@ -181,7 +181,7 @@ by a graduate student from UC Davis
 
 - https://blog.csdn.net/LvGreat/article/details/135454738
 
-- https://xinzhe.blog.csdn.net/article/details/129452000  
+- https://xinzhe.blog.csdn.net/article/details/129452000
 
 - https://blog.csdn.net/v20000727/article/details/136870879?spm=1001.2014.3001.5502
 
@@ -196,14 +196,14 @@ There are also many others notes made by many other readers on the Internet. I a
 - https://www.bilibili.com/video/BV1fW421w7NH
 
 - https://www.bilibili.com/video/BV1Ne411m7GX
-  
+
 - https://www.bilibili.com/video/BV1HX4y1H7uR
-  
+
 - https://www.bilibili.com/video/BV1TgzsYDEnP
-  
+
 - https://www.bilibili.com/video/BV1CQ4y1J7zu
 
-# Update history 
+# Update history
 
 **(July 2025) Minor update: Typo corrections**
 
@@ -222,7 +222,7 @@ The design of the book cover is finished. The book will be officially published 
 
 **(Sep 2024) Minor update before printing by Springer**
 
-I revised some very minor places that readers may hardly notice. It is supposed to be the final version before printing by Springer. 
+I revised some very minor places that readers may hardly notice. It is supposed to be the final version before printing by Springer.
 
 **(Aug 2024) 3000 Stars and more code**
 
@@ -246,13 +246,13 @@ You are welcome to provide any feedback about the code such as bugs if detected.
 
 **(Mar 2024) 2K stars**
 
-The book has received 2K stars. I also received many positive evaluations of the book from many readers. Very glad that it can be helpful. 
+The book has received 2K stars. I also received many positive evaluations of the book from many readers. Very glad that it can be helpful.
 
 **(Mar 2024) Minor update**
 
 The third version of the draft of the book is online now.
 
-Compared to the second version, the third version is improved in the sense that some minor typos have been corrected. Here, I would like to thank the readers who sent me their feedback. 
+Compared to the second version, the third version is improved in the sense that some minor typos have been corrected. Here, I would like to thank the readers who sent me their feedback.
 
 **(Sep 2023) 1000+ stars**
 
@@ -262,7 +262,7 @@ The book received 1000+ stars! Thank everybody!
 
 *The second version of the draft of the book is online now!!*
 
-Compared to the first version, which was online one year ago, the second version has been improved in various ways. For example, we replotted most of the figures, reorganized some contents to make them clearer, corrected some typos, and added Chapter 10, which was not included in the first version. 
+Compared to the first version, which was online one year ago, the second version has been improved in various ways. For example, we replotted most of the figures, reorganized some contents to make them clearer, corrected some typos, and added Chapter 10, which was not included in the first version.
 
 I put the first draft of this book online in August 2022. Up to now, I have received valuable feedback from many readers worldwide. I want to express my gratitude to these readers.
 
