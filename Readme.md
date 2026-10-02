@@ -133,6 +133,8 @@ Many enthusiastic readers sent me the source code or notes that they developed w
 **Code**
 
 *Python:*
+- https://github.com/Socrates-Gebremedhin/Reinforcement-Learning-From-Scratch (Oct 2026, by Socrates Gebremedhin)
+
 - https://github.com/AstonDky/Math_in_RL_Visual (May 2026, by Keyan Dong)
 
 - https://github.com/Ronchy2000/Multi-agent-RL/tree/master/RL_Learning-main (Oct 2025, by Rongqi Lu)
